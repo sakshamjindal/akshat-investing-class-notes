@@ -36,6 +36,15 @@ export function TopicSectionComponent({ section, videoName }: TopicSectionProps)
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
           components={{
+            p: ({ children, node }) => {
+              const hasImage = node?.children?.some(
+                (child) => child.type === "element" && child.tagName === "img"
+              );
+              if (hasImage) {
+                return <div className="p-wrap">{children}</div>;
+              }
+              return <p>{children}</p>;
+            },
             img: ({ src, alt }) => {
               if (!src || typeof src !== "string") return null;
               const filename = src.split("/").pop() || "";
