@@ -24,12 +24,6 @@ export function formatTimestamp(seconds: number): string {
   return `${m}:${s.toString().padStart(2, "0")}`;
 }
 
-const basePath = process.env.NODE_ENV === "production" ? "/akshat-investing-class-notes" : "";
-
 export function getFrameUrl(videoName: string, filename: string): string {
-  return `${basePath}/data/frames/${videoName}/${filename}`;
-}
-
-export function getBasePath(): string {
-  return basePath;
+  return `/data/frames/${videoName}/${filename}`;
 }
