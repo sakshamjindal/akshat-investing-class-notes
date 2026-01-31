@@ -27,3 +27,14 @@ export function formatTimestamp(seconds: number): string {
 export function getFrameUrl(videoName: string, filename: string): string {
   return `/data/frames/${videoName}/${filename}`;
 }
+
+/**
+ * Resolve `frame:filename.jpg` references in markdown to actual image URLs.
+ * Converts `![Figure: desc](frame:filename.jpg)` → `![Figure: desc](/data/frames/videoName/filename.jpg)`
+ */
+export function resolveFrameRefs(markdown: string, videoName: string): string {
+  return markdown.replace(
+    /\(frame:([^)]+)\)/g,
+    (_match, filename) => `(/data/frames/${videoName}/${filename})`
+  );
+}
