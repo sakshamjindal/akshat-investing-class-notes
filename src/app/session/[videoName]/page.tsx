@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { getSession, getTopicSession, getClassDocSession, getClassDoc, getAllVideoNames } from "@/lib/data";
+import { getSession, getTopicSession, getClassDocSession, getAllVideoNames } from "@/lib/data";
 import { SessionViewer } from "@/components/session-viewer";
 
 export function generateStaticParams() {
@@ -20,7 +20,6 @@ export default async function SessionPage({ params }: PageProps) {
 
   const topicSession = getTopicSession(videoName);
   const classDocSession = getClassDocSession(videoName);
-  const classDoc = getClassDoc(videoName);
 
-  return <SessionViewer session={session} topicSession={topicSession} classDocSession={classDocSession} classDoc={classDoc} />;
+  return <SessionViewer session={session} topicSession={topicSession} classDocSession={classDocSession} />;
 }

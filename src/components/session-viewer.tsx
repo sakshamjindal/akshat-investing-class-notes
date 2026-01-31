@@ -16,7 +16,6 @@ interface SessionViewerProps {
   session: SessionData;
   topicSession: TopicSessionData | null;
   classDocSession: TopicSessionData | null;
-  classDoc: string | null;
 }
 
 export function SessionViewer({ session, topicSession, classDocSession }: SessionViewerProps) {
