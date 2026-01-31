@@ -1,0 +1,192 @@
+{
+  "video_name": "01_US_Stock_Market_Jan2025_Part1",
+  "total_frames_before_dedup": 198,
+  "frames": [
+    {
+      "filename": "scene_0001.jpg",
+      "timestamp": 0.0,
+      "phash": "a9a9a9a9a9595656",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0002.jpg",
+      "timestamp": 251.7533333125,
+      "phash": "d6a9a9a9a9795056",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0011.jpg",
+      "timestamp": 300.0,
+      "phash": "c5986b96d06536e9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0003.jpg",
+      "timestamp": 503.506666625,
+      "phash": "c49e6b96d0611af9",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0005.jpg",
+      "timestamp": 755.2599999375,
+      "phash": "c49a6b9ed1691ce1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0033.jpg",
+      "timestamp": 960.0,
+      "phash": "c49a3b96d9611e71",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0006.jpg",
+      "timestamp": 1007.01333325,
+      "phash": "d2a9a9a9aba65256",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0009.jpg",
+      "timestamp": 1258.7666665625,
+      "phash": "c49e2b96c1a91ee9",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0045.jpg",
+      "timestamp": 1320.0,
+      "phash": "c49a6b9cd3e51863",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0018.jpg",
+      "timestamp": 1510.519999875,
+      "phash": "d2ada9a129283f1f",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0054.jpg",
+      "timestamp": 1590.0,
+      "phash": "d2a9abada9365a50",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0020.jpg",
+      "timestamp": 1762.2733331875,
+      "phash": "d2a9a9ada9d15354",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0029.jpg",
+      "timestamp": 2014.0266665,
+      "phash": "d4a2aba9b25c4b56",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0069.jpg",
+      "timestamp": 2040.0,
+      "phash": "d6a9a9af23c8d056",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0074.jpg",
+      "timestamp": 2190.0,
+      "phash": "d6a3a829963c4b5e",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0038.jpg",
+      "timestamp": 2265.7799998125,
+      "phash": "d6a2aaa9923b4b56",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0045.jpg",
+      "timestamp": 2517.533333125,
+      "phash": "d6a2ab29b60f4956",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0050.jpg",
+      "timestamp": 2769.2866664374997,
+      "phash": "d2a9a9a161e23f1e",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0097.jpg",
+      "timestamp": 2880.0,
+      "phash": "d2a92da82d3d3f50",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0098.jpg",
+      "timestamp": 2910.0,
+      "phash": "d6a9ababa8c8dc50",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0099.jpg",
+      "timestamp": 2940.0,
+      "phash": "d6ad8da1a0f170cd",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0056.jpg",
+      "timestamp": 3021.03999975,
+      "phash": "d6a8a9a6a3ce7252",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0102.jpg",
+      "timestamp": 3030.0,
+      "phash": "d6aba8a9a858535e",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0108.jpg",
+      "timestamp": 3210.0,
+      "phash": "d6a9a9a9a9ca5a52",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0110.jpg",
+      "timestamp": 3270.0,
+      "phash": "d6a2a9a9b63e4b50",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0057.jpg",
+      "timestamp": 3272.7933330625,
+      "phash": "c49c6b96d1c91a73",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0118.jpg",
+      "timestamp": 3510.0,
+      "phash": "c59e3b96c1270e71",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0061.jpg",
+      "timestamp": 3524.546666375,
+      "phash": "c49a6b96e1e51e61",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0126.jpg",
+      "timestamp": 3750.0,
+      "phash": "84986b9e38e19f63",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0064.jpg",
+      "timestamp": 3776.2999996874996,
+      "phash": "d4d53389cc663399",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0128.jpg",
+      "timestamp": 3810.0,
+      "phash": "849a2b96d9e59a63",
+      "source": "periodic"
+    }
+  ]
+}
