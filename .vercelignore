@@ -1,0 +1,3 @@
+# Frames are too many files (9000+) for Vercel free tier (5000 limit)
+# They are served from the git repo or external storage
+public/data/frames
