@@ -3,13 +3,14 @@ import path from "path";
 import Link from "next/link";
 import { getAllSessions } from "@/lib/data";
 import { SessionCard } from "@/components/session-card";
-import { BookOpen, FileText } from "lucide-react";
+import { BookOpen, FileText, TrendingUp, Shield } from "lucide-react";
 
 export default function HomePage() {
   const sessions = getAllSessions();
-  const hasStrategyDoc = fs.existsSync(
-    path.join(process.cwd(), "public/data/output/strategy_doc.md")
-  );
+  const outputDir = path.join(process.cwd(), "public/data/output");
+  const hasStrategyDoc = fs.existsSync(path.join(outputDir, "strategy_doc.md"));
+  const hasStocksDoc = fs.existsSync(path.join(outputDir, "stocks_strategy.md"));
+  const hasStocksOptionsDoc = fs.existsSync(path.join(outputDir, "stocks_options_strategy.md"));
 
   return (
     <main className="min-h-screen bg-background">
@@ -22,15 +23,35 @@ export default function HomePage() {
           <p className="text-muted-foreground text-lg">
             Browse session recordings with extracted notes, frames, and transcripts.
           </p>
-          {hasStrategyDoc && (
-            <Link
-              href="/strategy"
-              className="inline-flex items-center gap-2 mt-4 px-4 py-2 rounded-lg bg-primary text-primary-foreground hover:bg-primary/90 transition-colors text-sm font-medium"
-            >
-              <FileText className="h-4 w-4" />
-              View Strategy Document
-            </Link>
-          )}
+          <div className="flex flex-wrap gap-3 mt-4">
+            {hasStrategyDoc && (
+              <Link
+                href="/strategy"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-primary text-primary-foreground hover:bg-primary/90 transition-colors text-sm font-medium"
+              >
+                <FileText className="h-4 w-4" />
+                Full Strategy Document
+              </Link>
+            )}
+            {hasStocksDoc && (
+              <Link
+                href="/strategy/stocks"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border bg-background hover:bg-muted transition-colors text-sm font-medium"
+              >
+                <TrendingUp className="h-4 w-4" />
+                Stocks Portfolio Strategy
+              </Link>
+            )}
+            {hasStocksOptionsDoc && (
+              <Link
+                href="/strategy/stocks-options"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border bg-background hover:bg-muted transition-colors text-sm font-medium"
+              >
+                <Shield className="h-4 w-4" />
+                Stocks + Options Strategy
+              </Link>
+            )}
+          </div>
         </div>
 
         {sessions.length === 0 ? (
