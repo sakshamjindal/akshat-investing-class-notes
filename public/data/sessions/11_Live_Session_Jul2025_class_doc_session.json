@@ -1,0 +1,90 @@
+{
+  "video_name": "11_Live_Session_Jul2025",
+  "title": "11 Live Session Jul2025",
+  "duration_seconds": 12526.037333,
+  "toc": [
+    {
+      "topic_id": "fund-structure-and-currency-strategy",
+      "title": "Fund Structure and Currency Strategy",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "growth-stock-portfolio-construction-and-valuation",
+      "title": "Growth Stock Portfolio Construction and Valuation",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "volatility-management-and-margin-of-safety",
+      "title": "Volatility Management and Margin of Safety",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "market-structure-and-geographic-allocation",
+      "title": "Market Structure and Geographic Allocation",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "portfolio-management-and-two-fund-approach",
+      "title": "Portfolio Management and Two-Fund Approach",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "key-takeaways",
+      "title": "Key Takeaways",
+      "level": 1,
+      "children": []
+    }
+  ],
+  "sections": [
+    {
+      "topic_id": "fund-structure-and-currency-strategy",
+      "title": "Fund Structure and Currency Strategy",
+      "content": "The instructor operates a **two-fund structure** with distinct objectives: Fund One focuses on QQQ outperformance through systematic capital rotation, while Fund Two enables regular monthly deployment with valuation-driven position sizing. Both funds maintain 20% cash reserves for opportunistic deployment during market corrections.\n\n**Capital rotation mechanics** involve identifying technical channels in major holdings (Meta, QQQ, SOX, IVW) and systematically rotating between support and resistance levels. This approach has generated approximately 30% gains on a six-month basis while maintaining risk-free capital at 4.5% yields.\n\n**Currency risk management** is critical for international investing. The instructor emphasizes measuring all returns in USD terms, noting that emerging market currencies like INR structurally depreciate 4% annually. This adjustment reveals that Indian small-cap returns of 20% INR translate to only 16% USD-adjusted returns, making them inferior to QQQ's 15-16% CAGR with lower volatility.\n\nThe **net exporter principle** drives currency strength: countries must export value to maintain currency stability. India's net importer status ensures structural INR depreciation, while the US exports USD itself (90% forex dominance), creating systematic dollar strength.",
+      "frame_files": [],
+      "subsections": []
+    },
+    {
+      "topic_id": "growth-stock-portfolio-construction-and-valuation",
+      "title": "Growth Stock Portfolio Construction and Valuation",
+      "content": "Growth stocks are defined as companies operating in **power law industries** that are extremely difficult to value using traditional metrics. The core strategy allocates 85% to pure growth stocks, focusing on companies with category-creating potential in semiconductors, AI, robotics, and autonomous vehicles.\n\n**Position management** follows strict exit rules: sell only on fundamental deterioration (growth thesis breaks) or technical breakdown (chart pattern breach). Traditional valuation metrics (PE, DCF, PEG) are unreliable for growth stocks creating new categories. The instructor maintains 46% unrealized profit in Nvidia despite all traditional metrics suggesting overvaluation.\n\n**The valuation paradox** emerges because growth stocks appear overvalued by conventional measures yet continue appreciating through category creation and market expansion. Companies like Nvidia ($4T market cap) rival entire national economies, but this reflects the power law nature of technological dominance rather than fundamental overvaluation.\n\n![Figure: Meta Platforms technical chart showing parabolic uptrend with technical sale signals](frame:periodic_0096.jpg)\n\n**Portfolio concentration limits** cap individual positions at 5-6% in balanced portfolios, though concentrated growth portfolios may allow higher allocations for undervalued quality companies. The key principle: retain 70-80% of growth positions through traditional valuation peaks, taking only 10-20% profits for rebalancing.",
+      "frame_files": [
+        "periodic_0096.jpg"
+      ],
+      "subsections": []
+    },
+    {
+      "topic_id": "volatility-management-and-margin-of-safety",
+      "title": "Volatility Management and Margin of Safety",
+      "content": "Growth stock investing requires **psychological resilience** to handle frequent 20%+ drawdowns. Amazon experienced 6 separate drawdowns exceeding 20% over five years, including corrections of 40-45%. This volatility is a feature, not a bug, of growth investing.\n\n**Cash reserve strategy** maintains 20% portfolio allocation specifically for deploying during corrections. This isn't underinvestment but strategic dry powder enabling \"buy the dip\" execution without forced selling. The instructor can handle 20-30% portfolio drawdowns and actively waits for such opportunities to add positions.\n\n**Margin of safety** provides the psychological buffer necessary to buy during drawdowns rather than panic sell. Without adequate cash reserves and conviction in long-term thesis, investors typically sell at market bottoms when portfolios decline from ₹1 crore to ₹80 lakh multiple times during recovery cycles.\n\nThe **QQQ volatility example** illustrates the challenge: investors buying at July 2024 peaks achieved 5% returns after one year, but endured multiple 20% drawdowns during the holding period. Most retail investors fail this psychological test and sell at the worst possible times.",
+      "frame_files": [],
+      "subsections": []
+    },
+    {
+      "topic_id": "market-structure-and-geographic-allocation",
+      "title": "Market Structure and Geographic Allocation",
+      "content": "**Tech supremacy drives economic supremacy** — countries dominating technology will dominate economically. The US maintains structural advantages through genuine innovation in AI, semiconductors, and cloud computing, while India lacks true tech innovation despite companies like TCS being labeled \"tech.\"\n\n**Geographic allocation** for high-ticket investors should target 80% global markets (primarily US) and 20% India as emerging market diversification. Indian tax residents face structural disadvantages but should focus on individual stock selection rather than index investing.\n\n**India market limitations** include: maximum expected returns of 12-12.5% (vs US tech 15%+), capital rotation nature requiring active management rather than buy-and-hold, and currency headwinds reducing dollar-adjusted returns. The market rewards tactical trading over long-term holding.\n\n**Tax optimization** creates significant advantages for UAE residents investing in QQQ (0% tax) versus Indian residents facing tax burdens. After-tax returns for Indian investors approximate 7% while UAE residents capture full returns, making geographic arbitrage material for investment decisions.\n\nThe **layered technology stack** creates investment opportunities across multiple levels: energy demand drives chip infrastructure (Nvidia, AMD), which powers data centers and applications (Archer, ASTS, Transmedics). Understanding these interconnections enables portfolio construction across the entire value chain.",
+      "frame_files": [],
+      "subsections": []
+    },
+    {
+      "topic_id": "portfolio-management-and-two-fund-approach",
+      "title": "Portfolio Management and Two-Fund Approach",
+      "content": "**Portfolio One** maintains balanced core holdings with maximum 5-6% individual stock allocations. Entry occurs through 2-3 bulk tranches after thorough analysis, with minimal rebalancing except when stocks become fundamentally overvalued. Current performance shows $170,297 invested generating $179,969 current value with 20% cash reserves.\n\n**Portfolio Two** enables systematic monthly deployment (~$100,000) with valuation-driven position sizing. Google at 20% discount receives larger allocation (23K) while Nvidia at current valuation gets smaller allocation (10K). This approach allows flexibility to reduce deployment when markets are expensive.\n\n**Scaling for different capital bases** follows proportional mirroring: followers with $1K monthly can take 1/100th of instructor positions, while those with $10K monthly take 1/10th positions. The key principle: maintain same allocation percentages regardless of absolute capital size.\n\n**Cash management** requires maintaining sufficient reserves to deploy 25% additional capital during 20% market corrections. Current reserve of $254K enables this deployment while generating 4.5% risk-free returns. The rule: don't deploy cash reserves for marginal gains — save for significant opportunities.\n\n**Retirement portfolio strategy** targets $2 million with 100% US/Global allocation and zero India exposure. This represents passive wealth preservation focused on survivability companies (Magnificent Seven) rather than alpha generation plays.",
+      "frame_files": [],
+      "subsections": []
+    },
+    {
+      "topic_id": "key-takeaways",
+      "title": "Key Takeaways",
+      "content": "• **Two-fund structure** enables both systematic deployment and opportunistic positioning with 20% cash reserves for market corrections\n\n• **Growth stock allocation** of 85% focuses on power law industries (AI, semiconductors, robotics) with exit discipline based on fundamentals or technicals, not valuation metrics\n\n• **Currency-adjusted returns** are mandatory for international investing — INR depreciation of 4% annually makes Indian returns inferior to US alternatives on risk-adjusted basis\n\n• **Position sizing limits** cap individual stocks at 5-6% with retention of 70-80% of growth positions through traditional valuation peaks\n\n• **Volatility tolerance** requires psychological preparation for 20%+ drawdowns and cash reserves to buy during corrections rather than panic sell\n\n• **Geographic diversification** should target 80% US/Global and 20% emerging markets, with tax optimization creating material advantages for UAE residents\n\n• **Tech supremacy thesis** drives long-term allocation to US markets given structural innovation advantages and economic dominance\n\n• **Margin of safety** through cash reserves and conviction enables contrarian accumulation during market stress rather than forced liquidation",
+      "frame_files": [],
+      "subsections": []
+    }
+  ],
+  "assembled_doc_filename": "11_Live_Session_Jul2025.md"
+}

@@ -1,0 +1,4428 @@
+{
+  "video_name": "14_Live_Session_Sep2025",
+  "total_frames_before_dedup": 2044,
+  "frames": [
+    {
+      "filename": "scene_0001.jpg",
+      "timestamp": 0.0,
+      "phash": "849679d89a991ed9",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0001.jpg",
+      "timestamp": 0.0,
+      "phash": "849669c8de991bd9",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0003.jpg",
+      "timestamp": 20.0,
+      "phash": "d2aba9a9aba15a54",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0002.jpg",
+      "timestamp": 25.86975372470588,
+      "phash": "a9a9a9a9a9a95656",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0006.jpg",
+      "timestamp": 50.0,
+      "phash": "849639db9c991bc9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0003.jpg",
+      "timestamp": 51.73950744941176,
+      "phash": "d2ababa9a9a55254",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0007.jpg",
+      "timestamp": 60.0,
+      "phash": "849679d899cd3bc1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0008.jpg",
+      "timestamp": 70.0,
+      "phash": "849679db9cb80ed8",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0004.jpg",
+      "timestamp": 77.60926117411765,
+      "phash": "849679d8cc991bcd",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0006.jpg",
+      "timestamp": 103.47901489882352,
+      "phash": "d6a9aba9a98b4174",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0007.jpg",
+      "timestamp": 129.34876862352942,
+      "phash": "95973cc8cc9c4ecc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0015.jpg",
+      "timestamp": 140.0,
+      "phash": "d6ababa9a9885174",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0009.jpg",
+      "timestamp": 155.2185223482353,
+      "phash": "d6a9abababa95050",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0019.jpg",
+      "timestamp": 180.0,
+      "phash": "d6ababa9a8e1d450",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0010.jpg",
+      "timestamp": 181.0882760729412,
+      "phash": "849679c89cd91bcd",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0020.jpg",
+      "timestamp": 190.0,
+      "phash": "d6ababa9a9a9d050",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0021.jpg",
+      "timestamp": 200.0,
+      "phash": "d6aba9aba9e0d450",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0011.jpg",
+      "timestamp": 206.95802979764704,
+      "phash": "d6a9aba8ad8b5074",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0023.jpg",
+      "timestamp": 220.0,
+      "phash": "d6a9a9aba9e95450",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0024.jpg",
+      "timestamp": 230.0,
+      "phash": "d6a9a9aba8e85c51",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0012.jpg",
+      "timestamp": 232.82778352235295,
+      "phash": "d6a928ababaacc52",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0025.jpg",
+      "timestamp": 240.0,
+      "phash": "d6a9ababa8a95451",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0013.jpg",
+      "timestamp": 258.69753724705885,
+      "phash": "d6a9ababaaaa5052",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0027.jpg",
+      "timestamp": 260.0,
+      "phash": "95976ccccccc0ee4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0029.jpg",
+      "timestamp": 280.0,
+      "phash": "849679d89c991bf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0015.jpg",
+      "timestamp": 284.5672909717647,
+      "phash": "d6a9ababa9ab4052",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0030.jpg",
+      "timestamp": 290.0,
+      "phash": "d6a9a9a9a98dcc54",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0016.jpg",
+      "timestamp": 310.4370446964706,
+      "phash": "d6a92ba9a929cc56",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0034.jpg",
+      "timestamp": 330.0,
+      "phash": "849639c89cf91bd9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0017.jpg",
+      "timestamp": 336.3067984211765,
+      "phash": "d6a9aaa9abab4152",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0035.jpg",
+      "timestamp": 340.0,
+      "phash": "849639c8dcd81bdd",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0036.jpg",
+      "timestamp": 350.0,
+      "phash": "849638d99cb91bf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0018.jpg",
+      "timestamp": 362.1765521458824,
+      "phash": "959739c88d9c0edc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0038.jpg",
+      "timestamp": 370.0,
+      "phash": "859618c99cf05ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0039.jpg",
+      "timestamp": 380.0,
+      "phash": "849639d89cf11bf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0019.jpg",
+      "timestamp": 388.04630587058824,
+      "phash": "d6a9ababa8a95154",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0040.jpg",
+      "timestamp": 390.0,
+      "phash": "959679c88cd81edc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0020.jpg",
+      "timestamp": 413.9160595952941,
+      "phash": "d2aba9ada9b54254",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0044.jpg",
+      "timestamp": 430.0,
+      "phash": "d6a92ba9a9aacc54",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0021.jpg",
+      "timestamp": 439.78581332000005,
+      "phash": "849679d99cd81bc9",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0022.jpg",
+      "timestamp": 465.6555670447059,
+      "phash": "d2a9a9aca9b552d4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0024.jpg",
+      "timestamp": 491.5253207694118,
+      "phash": "d2a9aaaea9a453d1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0051.jpg",
+      "timestamp": 500.0,
+      "phash": "849679c88cf11bf5",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0026.jpg",
+      "timestamp": 517.3950744941177,
+      "phash": "859739d89cd01ff0",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0055.jpg",
+      "timestamp": 540.0,
+      "phash": "d2ababaea9a54254",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0028.jpg",
+      "timestamp": 543.2648282188235,
+      "phash": "d6a9ababa8aa415a",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0056.jpg",
+      "timestamp": 550.0,
+      "phash": "d2a9a9ada9ad6254",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0029.jpg",
+      "timestamp": 569.1345819435294,
+      "phash": "d6a92baba8aacc52",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0031.jpg",
+      "timestamp": 595.0043356682353,
+      "phash": "85933dc89dd40edc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0061.jpg",
+      "timestamp": 600.0,
+      "phash": "849679d89cd81be5",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0062.jpg",
+      "timestamp": 610.0,
+      "phash": "85973cc88cd81efc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0033.jpg",
+      "timestamp": 620.8740893929412,
+      "phash": "d6a9abafa8384c52",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0035.jpg",
+      "timestamp": 646.7438431176471,
+      "phash": "d6a9ababa8385652",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0066.jpg",
+      "timestamp": 650.0,
+      "phash": "d2a9abaea9a550d4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0068.jpg",
+      "timestamp": 670.0,
+      "phash": "d2a9aaaea92d52d4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0036.jpg",
+      "timestamp": 672.613596842353,
+      "phash": "85931dc89cdc4edc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0038.jpg",
+      "timestamp": 698.4833505670588,
+      "phash": "c0a9a9a92dd83fd2",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0071.jpg",
+      "timestamp": 700.0,
+      "phash": "d2a9aaaea9b55254",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0039.jpg",
+      "timestamp": 724.3531042917648,
+      "phash": "84967bd89dc01bf1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0040.jpg",
+      "timestamp": 750.2228580164706,
+      "phash": "d0a9ada929da1ed2",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0042.jpg",
+      "timestamp": 776.0926117411765,
+      "phash": "859693da9cd01ef1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0079.jpg",
+      "timestamp": 780.0,
+      "phash": "959779c89cd80ed8",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0080.jpg",
+      "timestamp": 790.0,
+      "phash": "95973dc89cd80ecc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0043.jpg",
+      "timestamp": 801.9623654658824,
+      "phash": "d2ababa9a9815356",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0082.jpg",
+      "timestamp": 810.0,
+      "phash": "95977dc88ccc0ee4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0044.jpg",
+      "timestamp": 827.8321191905882,
+      "phash": "859693d89cc03ff1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0084.jpg",
+      "timestamp": 830.0,
+      "phash": "95977cc89cd01ee4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0085.jpg",
+      "timestamp": 840.0,
+      "phash": "849679d89cd11bd9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0047.jpg",
+      "timestamp": 853.7018729152942,
+      "phash": "d6a9abab291e5017",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0088.jpg",
+      "timestamp": 870.0,
+      "phash": "959739c89cd01ef1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0048.jpg",
+      "timestamp": 879.5716266400001,
+      "phash": "d6a939a9293ace52",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0091.jpg",
+      "timestamp": 900.0,
+      "phash": "95975dc89cd01ef0",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0049.jpg",
+      "timestamp": 905.4413803647059,
+      "phash": "d6a9abab2a3e5052",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0093.jpg",
+      "timestamp": 920.0,
+      "phash": "859739ca9dc01ed9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0050.jpg",
+      "timestamp": 931.3111340894118,
+      "phash": "d22b8ecc8e333356",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0095.jpg",
+      "timestamp": 940.0,
+      "phash": "95936cc89cd44edc",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0096.jpg",
+      "timestamp": 950.0,
+      "phash": "859679c89cd11bf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0051.jpg",
+      "timestamp": 957.1808878141176,
+      "phash": "d6a9a9abab1a5252",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0098.jpg",
+      "timestamp": 970.0,
+      "phash": "849739d99cd01bf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0099.jpg",
+      "timestamp": 980.0,
+      "phash": "849679d89cd01ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0053.jpg",
+      "timestamp": 983.0506415388236,
+      "phash": "d6a9aba9aaca4652",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0100.jpg",
+      "timestamp": 990.0,
+      "phash": "95933cc88cdc4ef4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0101.jpg",
+      "timestamp": 1000.0,
+      "phash": "95971cc89cd84ef4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0056.jpg",
+      "timestamp": 1008.9203952635295,
+      "phash": "d2a9aba9ab915853",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0103.jpg",
+      "timestamp": 1020.0,
+      "phash": "95971cc89cd01ff4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0057.jpg",
+      "timestamp": 1034.7901489882354,
+      "phash": "819e96da9cc43cf1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0107.jpg",
+      "timestamp": 1060.0,
+      "phash": "d6a9aba9a923465c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0058.jpg",
+      "timestamp": 1060.6599027129412,
+      "phash": "d2a9a9a9abb14c47",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0059.jpg",
+      "timestamp": 1086.529656437647,
+      "phash": "d6a9a8a9ab1b0756",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0060.jpg",
+      "timestamp": 1112.399410162353,
+      "phash": "d6a938a9a11acf56",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0061.jpg",
+      "timestamp": 1138.2691638870588,
+      "phash": "d6a9a8aba90b1756",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0115.jpg",
+      "timestamp": 1140.0,
+      "phash": "d6a9ababae284153",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0062.jpg",
+      "timestamp": 1164.1389176117648,
+      "phash": "859296da9dc41ef1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0063.jpg",
+      "timestamp": 1190.0086713364706,
+      "phash": "d6a9afa9a8e85152",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0122.jpg",
+      "timestamp": 1210.0,
+      "phash": "85971dd89cb01bf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0066.jpg",
+      "timestamp": 1215.8784250611766,
+      "phash": "d2a9a9a9abb05a53",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0123.jpg",
+      "timestamp": 1220.0,
+      "phash": "85971dd89cd01bf4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0068.jpg",
+      "timestamp": 1241.7481787858824,
+      "phash": "8193d6da9cd40ef4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0126.jpg",
+      "timestamp": 1250.0,
+      "phash": "d6a8abaaa82f405f",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0127.jpg",
+      "timestamp": 1260.0,
+      "phash": "d6a9ababaa3a1852",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0069.jpg",
+      "timestamp": 1267.6179325105884,
+      "phash": "d6aba9a9a11cd15c",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0129.jpg",
+      "timestamp": 1280.0,
+      "phash": "85933dc89cdc0ef4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0070.jpg",
+      "timestamp": 1293.4876862352942,
+      "phash": "819396da9dc41cf9",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0131.jpg",
+      "timestamp": 1300.0,
+      "phash": "95935dc89cc41ef4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0132.jpg",
+      "timestamp": 1310.0,
+      "phash": "959719c89ccc1ef4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0071.jpg",
+      "timestamp": 1319.35743996,
+      "phash": "84c41be7cc339bd8",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0134.jpg",
+      "timestamp": 1330.0,
+      "phash": "85973dc89cd81cd9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0072.jpg",
+      "timestamp": 1345.227193684706,
+      "phash": "c59692da9cc41df1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0136.jpg",
+      "timestamp": 1350.0,
+      "phash": "859679d89cc11ef1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0138.jpg",
+      "timestamp": 1370.0,
+      "phash": "85963dd99cc119f1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0073.jpg",
+      "timestamp": 1371.0969474094118,
+      "phash": "c487db91db983343",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0139.jpg",
+      "timestamp": 1380.0,
+      "phash": "859739c89cd01fd9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0074.jpg",
+      "timestamp": 1396.9667011341176,
+      "phash": "c59ac69a99cc39b1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0141.jpg",
+      "timestamp": 1400.0,
+      "phash": "d6a9abafa8381952",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0075.jpg",
+      "timestamp": 1422.8364548588238,
+      "phash": "84c619e6d8b3cc76",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0145.jpg",
+      "timestamp": 1440.0,
+      "phash": "d6a9ababa83e4017",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0076.jpg",
+      "timestamp": 1448.7062085835296,
+      "phash": "819b96da9cd40fb4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0146.jpg",
+      "timestamp": 1450.0,
+      "phash": "85971cd89cd81bbc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0077.jpg",
+      "timestamp": 1474.5759623082354,
+      "phash": "84c739e658b14e76",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0150.jpg",
+      "timestamp": 1490.0,
+      "phash": "8596d9d89cd01ef1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0079.jpg",
+      "timestamp": 1500.4457160329412,
+      "phash": "c3c9693838c74f93",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0152.jpg",
+      "timestamp": 1510.0,
+      "phash": "849659d89cc13ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0153.jpg",
+      "timestamp": 1520.0,
+      "phash": "85963bc89ec11ed9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0081.jpg",
+      "timestamp": 1526.3154697576472,
+      "phash": "c5c76ab51a6c149b",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0154.jpg",
+      "timestamp": 1530.0,
+      "phash": "85965dd89dc01ed9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0083.jpg",
+      "timestamp": 1552.185223482353,
+      "phash": "c4c76ab45acc98cb",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0084.jpg",
+      "timestamp": 1578.0549772070588,
+      "phash": "819b96da9cd01df1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0159.jpg",
+      "timestamp": 1580.0,
+      "phash": "c0a9a9a9adda3cd2",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0160.jpg",
+      "timestamp": 1590.0,
+      "phash": "c0a9a9a929db3ed2",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0161.jpg",
+      "timestamp": 1600.0,
+      "phash": "849633d99dc11bf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0085.jpg",
+      "timestamp": 1603.9247309317648,
+      "phash": "84c74bb44acc9adb",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0163.jpg",
+      "timestamp": 1620.0,
+      "phash": "8197dcda8cd01ee5",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0086.jpg",
+      "timestamp": 1629.7944846564706,
+      "phash": "819e92d89cd03ff1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0165.jpg",
+      "timestamp": 1640.0,
+      "phash": "85979fc89cc01ef1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0087.jpg",
+      "timestamp": 1655.6642383811763,
+      "phash": "c5c76bb45a849a69",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0088.jpg",
+      "timestamp": 1681.5339921058826,
+      "phash": "819b96d89cd03fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0171.jpg",
+      "timestamp": 1700.0,
+      "phash": "84969bd99df019b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0089.jpg",
+      "timestamp": 1707.4037458305884,
+      "phash": "c4c54bb19b941b9b",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0174.jpg",
+      "timestamp": 1730.0,
+      "phash": "94c699c19c9c7bb1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0090.jpg",
+      "timestamp": 1733.2734995552942,
+      "phash": "819b96d89cf40ef1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0175.jpg",
+      "timestamp": 1740.0,
+      "phash": "91931fca9c9c4e9c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0091.jpg",
+      "timestamp": 1759.1432532800002,
+      "phash": "c4c74ab05ecc9ad9",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0179.jpg",
+      "timestamp": 1780.0,
+      "phash": "849793d99cc03df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0092.jpg",
+      "timestamp": 1785.013007004706,
+      "phash": "859e92da9cd439b1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0181.jpg",
+      "timestamp": 1800.0,
+      "phash": "849693d89cd11ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0093.jpg",
+      "timestamp": 1810.8827607294118,
+      "phash": "84c759b2db981b59",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0094.jpg",
+      "timestamp": 1836.7525144541175,
+      "phash": "859e92d89dd03bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0187.jpg",
+      "timestamp": 1860.0,
+      "phash": "8596d3d89cc11ef1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0095.jpg",
+      "timestamp": 1862.6222681788236,
+      "phash": "84c75990db989bd9",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0097.jpg",
+      "timestamp": 1888.4920219035293,
+      "phash": "c4c74ab05e941bdb",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0190.jpg",
+      "timestamp": 1890.0,
+      "phash": "d2a9aba9aba54354",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0098.jpg",
+      "timestamp": 1914.3617756282351,
+      "phash": "859bd6d89dc40db1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0099.jpg",
+      "timestamp": 1940.2315293529414,
+      "phash": "91c369f24d641ecd",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0197.jpg",
+      "timestamp": 1960.0,
+      "phash": "d2ababa9a9815953",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0101.jpg",
+      "timestamp": 1966.1012830776472,
+      "phash": "c4c74b91da989b1b",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0198.jpg",
+      "timestamp": 1970.0,
+      "phash": "d2aba9a9ab905b43",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0200.jpg",
+      "timestamp": 1990.0,
+      "phash": "d2ababa989b15853",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0102.jpg",
+      "timestamp": 1991.9710368023532,
+      "phash": "819bd6de9cd40eb0",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0103.jpg",
+      "timestamp": 2017.840790527059,
+      "phash": "84c749b249dc9add",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0104.jpg",
+      "timestamp": 2043.7105442517648,
+      "phash": "859e92d89cd41fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0206.jpg",
+      "timestamp": 2050.0,
+      "phash": "849693da9dc41df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0105.jpg",
+      "timestamp": 2069.580297976471,
+      "phash": "c2cb6c30e4336b9b",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0208.jpg",
+      "timestamp": 2070.0,
+      "phash": "859f96d89cc11cf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0109.jpg",
+      "timestamp": 2095.4500517011766,
+      "phash": "c0c33c39e5374b63",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0212.jpg",
+      "timestamp": 2110.0,
+      "phash": "859e939a9ccc39b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0213.jpg",
+      "timestamp": 2120.0,
+      "phash": "8596939a9dd439b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0111.jpg",
+      "timestamp": 2121.3198054258824,
+      "phash": "c0c33c6cc53c6bd3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0215.jpg",
+      "timestamp": 2140.0,
+      "phash": "859e93da9cc139b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0113.jpg",
+      "timestamp": 2147.189559150588,
+      "phash": "90c32dece43c69d3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0216.jpg",
+      "timestamp": 2150.0,
+      "phash": "859bd6d89cd01cf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0217.jpg",
+      "timestamp": 2160.0,
+      "phash": "849e93999cc03ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0218.jpg",
+      "timestamp": 2170.0,
+      "phash": "849693da9cc13df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0115.jpg",
+      "timestamp": 2173.059312875294,
+      "phash": "c0c33cc9a53c6bd3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0219.jpg",
+      "timestamp": 2180.0,
+      "phash": "859396da9cc13cf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0116.jpg",
+      "timestamp": 2198.9290666,
+      "phash": "96c9639c64c7591e",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0117.jpg",
+      "timestamp": 2224.798820324706,
+      "phash": "9663696c6699669a",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0225.jpg",
+      "timestamp": 2240.0,
+      "phash": "d6a9ababaa8b4350",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0226.jpg",
+      "timestamp": 2250.0,
+      "phash": "d6a9a8abab5a501e",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0118.jpg",
+      "timestamp": 2250.6685740494117,
+      "phash": "819396da9dd41db1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0227.jpg",
+      "timestamp": 2260.0,
+      "phash": "d6a9aba9a00b5756",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0119.jpg",
+      "timestamp": 2276.5383277741175,
+      "phash": "c4c36d38c533ccf1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0229.jpg",
+      "timestamp": 2280.0,
+      "phash": "d6a9aba9a0035f1e",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0230.jpg",
+      "timestamp": 2290.0,
+      "phash": "d6a9a8a9a30b1f1e",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0120.jpg",
+      "timestamp": 2302.408081498824,
+      "phash": "819996d38c9c4fb6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0121.jpg",
+      "timestamp": 2328.2778352235296,
+      "phash": "c4c31b78e699636a",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0235.jpg",
+      "timestamp": 2340.0,
+      "phash": "d6a9ab292d8b5174",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0122.jpg",
+      "timestamp": 2354.1475889482354,
+      "phash": "c4c36c38cfb963c8",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0239.jpg",
+      "timestamp": 2380.0,
+      "phash": "c19e9ac39cb04f69",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0123.jpg",
+      "timestamp": 2380.017342672941,
+      "phash": "819e92da9c912fb5",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0124.jpg",
+      "timestamp": 2405.887096397647,
+      "phash": "c6c33dcce53c68c2",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0244.jpg",
+      "timestamp": 2430.0,
+      "phash": "d2a9a9a9a9e14d53",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0126.jpg",
+      "timestamp": 2431.756850122353,
+      "phash": "92c36fc9e4996893",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0128.jpg",
+      "timestamp": 2457.626603847059,
+      "phash": "d4c32dcce53c69d0",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0248.jpg",
+      "timestamp": 2470.0,
+      "phash": "819e96da9cc01ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0129.jpg",
+      "timestamp": 2483.4963575717647,
+      "phash": "819b96d89c9479b5",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0250.jpg",
+      "timestamp": 2490.0,
+      "phash": "d6a9a9afa8e05652",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0130.jpg",
+      "timestamp": 2509.3661112964705,
+      "phash": "c6c3690ce33c5ace",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0254.jpg",
+      "timestamp": 2530.0,
+      "phash": "819f92d89cc11ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0131.jpg",
+      "timestamp": 2535.235865021177,
+      "phash": "c59e929a9cc03bf1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0255.jpg",
+      "timestamp": 2540.0,
+      "phash": "859a96d89cc43df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0257.jpg",
+      "timestamp": 2560.0,
+      "phash": "819e93da9cc03ef1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0132.jpg",
+      "timestamp": 2561.1056187458826,
+      "phash": "92c363c9e49e7991",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0133.jpg",
+      "timestamp": 2586.9753724705884,
+      "phash": "819e92ca9cd44ff4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0262.jpg",
+      "timestamp": 2610.0,
+      "phash": "819ad6da9cd11cf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0134.jpg",
+      "timestamp": 2612.845126195294,
+      "phash": "c2ce39cc36c16b33",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0264.jpg",
+      "timestamp": 2630.0,
+      "phash": "819e96d89cc13df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0135.jpg",
+      "timestamp": 2638.71487992,
+      "phash": "819a96da9cd41fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0265.jpg",
+      "timestamp": 2640.0,
+      "phash": "819bd6d89cd11ee1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0266.jpg",
+      "timestamp": 2650.0,
+      "phash": "c59693d89cc11df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0136.jpg",
+      "timestamp": 2664.5846336447057,
+      "phash": "96c36926e5c6db42",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0137.jpg",
+      "timestamp": 2690.454387369412,
+      "phash": "c6d36966c12749d6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0139.jpg",
+      "timestamp": 2716.3241410941177,
+      "phash": "d4c33938e63d4b91",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0273.jpg",
+      "timestamp": 2720.0,
+      "phash": "819b96da9cc41ee5",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0141.jpg",
+      "timestamp": 2742.1938948188235,
+      "phash": "90c339cc333c6bb3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0277.jpg",
+      "timestamp": 2760.0,
+      "phash": "819396da9cd01cfd",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0143.jpg",
+      "timestamp": 2768.06364854353,
+      "phash": "94c36fcce43c6893",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0278.jpg",
+      "timestamp": 2770.0,
+      "phash": "8193d6d29cd01ef9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0145.jpg",
+      "timestamp": 2793.933402268235,
+      "phash": "96c3693d6492796c",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0147.jpg",
+      "timestamp": 2819.8031559929414,
+      "phash": "c5d33831d1366b47",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0148.jpg",
+      "timestamp": 2845.6729097176476,
+      "phash": "c7db38c4b18c63c6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0288.jpg",
+      "timestamp": 2870.0,
+      "phash": "c596939a9dc01df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0149.jpg",
+      "timestamp": 2871.542663442353,
+      "phash": "c4d34e3cc18e79c3",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0151.jpg",
+      "timestamp": 2897.412417167059,
+      "phash": "c0c31a69e69b6cd3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0291.jpg",
+      "timestamp": 2900.0,
+      "phash": "8196d6da9cd01df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0292.jpg",
+      "timestamp": 2910.0,
+      "phash": "c598d6d899c439f1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0293.jpg",
+      "timestamp": 2920.0,
+      "phash": "c19692da9cd03df1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0153.jpg",
+      "timestamp": 2923.2821708917645,
+      "phash": "c5c34f31c699cb68",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0154.jpg",
+      "timestamp": 2949.1519246164708,
+      "phash": "819b96da9cc43bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0155.jpg",
+      "timestamp": 2975.0216783411765,
+      "phash": "c4c34e38c79c4b6e",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0300.jpg",
+      "timestamp": 2990.0,
+      "phash": "c59ed29a99941bb1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0156.jpg",
+      "timestamp": 3000.8914320658823,
+      "phash": "c3c33cc3e53c4ad1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0158.jpg",
+      "timestamp": 3026.761185790588,
+      "phash": "d1cc2633d9cc6633",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0305.jpg",
+      "timestamp": 3040.0,
+      "phash": "c4a518c66d35c677",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0306.jpg",
+      "timestamp": 3050.0,
+      "phash": "84cc3be4cc339e6c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0168.jpg",
+      "timestamp": 3052.6309395152944,
+      "phash": "c0963b9c0bd11bf9",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0308.jpg",
+      "timestamp": 3070.0,
+      "phash": "d0d2bd42ce7929c3",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0169.jpg",
+      "timestamp": 3078.5006932400006,
+      "phash": "d4663399cc663399",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0309.jpg",
+      "timestamp": 3080.0,
+      "phash": "c59696da9cc119f1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0311.jpg",
+      "timestamp": 3100.0,
+      "phash": "c19ed2de98c41db1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0170.jpg",
+      "timestamp": 3104.370446964706,
+      "phash": "c09a3f9c0bd11d79",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0312.jpg",
+      "timestamp": 3110.0,
+      "phash": "c19792da9cd439b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0178.jpg",
+      "timestamp": 3130.240200689412,
+      "phash": "c0971b9409f19bed",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0180.jpg",
+      "timestamp": 3156.1099544141175,
+      "phash": "c0970f9489f11bed",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0319.jpg",
+      "timestamp": 3180.0,
+      "phash": "c0cd49a5bd959672",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0182.jpg",
+      "timestamp": 3181.9797081388238,
+      "phash": "c0961b941bd91bf9",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0185.jpg",
+      "timestamp": 3207.8494618635295,
+      "phash": "c0961b9c0bd91bed",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0187.jpg",
+      "timestamp": 3233.7192155882353,
+      "phash": "8599d6d899e40df1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0191.jpg",
+      "timestamp": 3259.588969312941,
+      "phash": "859ad6d89cd42bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0328.jpg",
+      "timestamp": 3270.0,
+      "phash": "84c293db9c9c3bb1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0195.jpg",
+      "timestamp": 3285.4587230376474,
+      "phash": "819ad6d89cd439f4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0197.jpg",
+      "timestamp": 3311.3284767623527,
+      "phash": "c09f179995da29d8",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0199.jpg",
+      "timestamp": 3337.198230487059,
+      "phash": "c09b3f9649941be9",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0214.jpg",
+      "timestamp": 3363.067984211765,
+      "phash": "d4723389cc763399",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0215.jpg",
+      "timestamp": 3388.9377379364705,
+      "phash": "819b96d29dd01fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0341.jpg",
+      "timestamp": 3400.0,
+      "phash": "c4c74ab05af41adb",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0218.jpg",
+      "timestamp": 3414.8074916611768,
+      "phash": "c04b178d93c99bf8",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0344.jpg",
+      "timestamp": 3430.0,
+      "phash": "819ad6989d9c69b5",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0231.jpg",
+      "timestamp": 3440.6772453858825,
+      "phash": "c0c96e8fa49b3572",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0346.jpg",
+      "timestamp": 3450.0,
+      "phash": "c2c36d30e43b6b99",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0232.jpg",
+      "timestamp": 3466.5469991105883,
+      "phash": "859e92d89dc43db1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0233.jpg",
+      "timestamp": 3492.416752835294,
+      "phash": "c0d96e8eac933572",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0351.jpg",
+      "timestamp": 3500.0,
+      "phash": "92cb696c24b36b93",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0352.jpg",
+      "timestamp": 3510.0,
+      "phash": "c6c36d38e532639a",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0236.jpg",
+      "timestamp": 3518.2865065600004,
+      "phash": "c19393d29d9c0ebc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0240.jpg",
+      "timestamp": 3544.1562602847057,
+      "phash": "c0d96d87ac959972",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0241.jpg",
+      "timestamp": 3570.026014009412,
+      "phash": "819e96ce9cf40eb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0359.jpg",
+      "timestamp": 3580.0,
+      "phash": "90c36dec343c49f3",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0249.jpg",
+      "timestamp": 3595.895767734118,
+      "phash": "c0d94d868db73378",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0362.jpg",
+      "timestamp": 3610.0,
+      "phash": "c4c3693cc53748f3",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0363.jpg",
+      "timestamp": 3620.0,
+      "phash": "c4c7693cc1e738c9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0259.jpg",
+      "timestamp": 3621.7655214588235,
+      "phash": "d42633d9cc2633d9",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0364.jpg",
+      "timestamp": 3630.0,
+      "phash": "c4c3593cc725dae1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0260.jpg",
+      "timestamp": 3647.6352751835298,
+      "phash": "c0d96d868cb7b174",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0366.jpg",
+      "timestamp": 3650.0,
+      "phash": "c19ad6da9cc439e4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0367.jpg",
+      "timestamp": 3660.0,
+      "phash": "85d296d89d9c39b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0262.jpg",
+      "timestamp": 3673.505028908235,
+      "phash": "c1d96c878d969972",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0275.jpg",
+      "timestamp": 3699.3747826329413,
+      "phash": "c59893da99d03bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0372.jpg",
+      "timestamp": 3710.0,
+      "phash": "819bd6da9cc41cf1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0373.jpg",
+      "timestamp": 3720.0,
+      "phash": "d4c36dcce53c48d2",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0279.jpg",
+      "timestamp": 3725.244536357647,
+      "phash": "c59692d29cd01ff1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0280.jpg",
+      "timestamp": 3751.1142900823534,
+      "phash": "d42733d8cc2733d8",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0378.jpg",
+      "timestamp": 3770.0,
+      "phash": "92c36fcd641c6e98",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0282.jpg",
+      "timestamp": 3776.9840438070587,
+      "phash": "d1dc24933c8ed8e6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0379.jpg",
+      "timestamp": 3780.0,
+      "phash": "96c36dcc649e4ad2",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0381.jpg",
+      "timestamp": 3800.0,
+      "phash": "90c36becc63f4ac8",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0284.jpg",
+      "timestamp": 3802.853797531765,
+      "phash": "91d824996cced9e6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0285.jpg",
+      "timestamp": 3828.7235512564703,
+      "phash": "819ad6d89cc43ef4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0286.jpg",
+      "timestamp": 3854.5933049811765,
+      "phash": "d1dc64996c86f926",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0389.jpg",
+      "timestamp": 3880.0,
+      "phash": "c4c3c93cc12e5be5",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0288.jpg",
+      "timestamp": 3880.4630587058828,
+      "phash": "d1d824933d86f92e",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0390.jpg",
+      "timestamp": 3890.0,
+      "phash": "c4c33998e1bd49e3",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0391.jpg",
+      "timestamp": 3900.0,
+      "phash": "90c7496ce6996ed8",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0290.jpg",
+      "timestamp": 3906.332812430588,
+      "phash": "c198649b6cc6d9e6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0292.jpg",
+      "timestamp": 3932.2025661552943,
+      "phash": "d1d824936d36d936",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0294.jpg",
+      "timestamp": 3958.07231988,
+      "phash": "d1d864997d863927",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0397.jpg",
+      "timestamp": 3960.0,
+      "phash": "96c34b64e69d689a",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0296.jpg",
+      "timestamp": 3983.9420736047064,
+      "phash": "c0986496398ef93f",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0400.jpg",
+      "timestamp": 3990.0,
+      "phash": "819e92d89de43bb1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0298.jpg",
+      "timestamp": 4009.8118273294117,
+      "phash": "c1d864b37d24d93c",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0402.jpg",
+      "timestamp": 4010.0,
+      "phash": "94c36fcce41e4ad2",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0403.jpg",
+      "timestamp": 4020.0,
+      "phash": "94c36fcce51e49d0",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0299.jpg",
+      "timestamp": 4035.681581054118,
+      "phash": "c599d6ca9cc40fb4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0406.jpg",
+      "timestamp": 4050.0,
+      "phash": "84cf929099e43ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0300.jpg",
+      "timestamp": 4061.5513347788233,
+      "phash": "c198649339ce99af",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0302.jpg",
+      "timestamp": 4087.4210885035295,
+      "phash": "d0c7cd30cfb431cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0304.jpg",
+      "timestamp": 4113.290842228235,
+      "phash": "d4c7ceb19b9431c1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0413.jpg",
+      "timestamp": 4120.0,
+      "phash": "c5d36cc938c7d318",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0414.jpg",
+      "timestamp": 4130.0,
+      "phash": "c0c3c33cc59679ce",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0305.jpg",
+      "timestamp": 4139.160595952942,
+      "phash": "819b96da9cc41df4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0306.jpg",
+      "timestamp": 4165.030349677648,
+      "phash": "d0c7ccb4cbb431cc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0419.jpg",
+      "timestamp": 4180.0,
+      "phash": "c4c34e38c79c6bd8",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0309.jpg",
+      "timestamp": 4190.900103402353,
+      "phash": "d4cc663399cc6633",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0312.jpg",
+      "timestamp": 4216.769857127059,
+      "phash": "d0c74db2cf943199",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0314.jpg",
+      "timestamp": 4242.639610851765,
+      "phash": "d0c7cbb0cbb431cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0315.jpg",
+      "timestamp": 4268.509364576471,
+      "phash": "819e92da9dd01fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0320.jpg",
+      "timestamp": 4294.379118301176,
+      "phash": "d166669999666699",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0321.jpg",
+      "timestamp": 4320.2488720258825,
+      "phash": "c4b1132dd22dd39d",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0434.jpg",
+      "timestamp": 4330.0,
+      "phash": "c19ed29a9cd439b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0331.jpg",
+      "timestamp": 4346.118625750588,
+      "phash": "819b96d89dd40fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0334.jpg",
+      "timestamp": 4371.988379475294,
+      "phash": "cccc70cc66279b99",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0336.jpg",
+      "timestamp": 4397.8581332,
+      "phash": "cccc319b66669a99",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0337.jpg",
+      "timestamp": 4423.727886924706,
+      "phash": "859696d29cd41fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0444.jpg",
+      "timestamp": 4430.0,
+      "phash": "c0963b941bd313f9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0338.jpg",
+      "timestamp": 4449.597640649412,
+      "phash": "cccc71936626d9cc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0447.jpg",
+      "timestamp": 4460.0,
+      "phash": "c0941b9c1bd937d9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0340.jpg",
+      "timestamp": 4475.467394374117,
+      "phash": "cccc9999669b3199",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0342.jpg",
+      "timestamp": 4501.3371480988235,
+      "phash": "cc993986766699cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0344.jpg",
+      "timestamp": 4527.20690182353,
+      "phash": "cc99398e66669999",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0346.jpg",
+      "timestamp": 4553.076655548235,
+      "phash": "cccc6ccc66333399",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0457.jpg",
+      "timestamp": 4560.0,
+      "phash": "c0941b9d0b9937f9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0347.jpg",
+      "timestamp": 4578.946409272941,
+      "phash": "c59e92da9cd01bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0348.jpg",
+      "timestamp": 4604.816162997648,
+      "phash": "cccc718c6633d38d",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0350.jpg",
+      "timestamp": 4630.685916722354,
+      "phash": "cccc64cc6633f325",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0351.jpg",
+      "timestamp": 4656.555670447059,
+      "phash": "d52a3689996636d9",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0468.jpg",
+      "timestamp": 4670.0,
+      "phash": "c094179d13d93f6c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0353.jpg",
+      "timestamp": 4682.425424171765,
+      "phash": "c4b193699379c4ce",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0355.jpg",
+      "timestamp": 4708.295177896471,
+      "phash": "c4b4d32c932fb247",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0357.jpg",
+      "timestamp": 4734.164931621177,
+      "phash": "c4b0d32cd32dd24f",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0359.jpg",
+      "timestamp": 4760.034685345882,
+      "phash": "c5b4d32c926e99c3",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0361.jpg",
+      "timestamp": 4785.9044390705885,
+      "phash": "c0b4d32cd32fd8cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0362.jpg",
+      "timestamp": 4811.774192795294,
+      "phash": "818e92db9c986bb5",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0363.jpg",
+      "timestamp": 4837.64394652,
+      "phash": "c4b4d32c932ff08b",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0485.jpg",
+      "timestamp": 4840.0,
+      "phash": "d1c96c878cb69972",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0486.jpg",
+      "timestamp": 4850.0,
+      "phash": "c0d96c878cb79972",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0365.jpg",
+      "timestamp": 4863.513700244706,
+      "phash": "c5b4926c922ed38f",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0367.jpg",
+      "timestamp": 4889.383453969412,
+      "phash": "859431de5b271676",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0369.jpg",
+      "timestamp": 4915.253207694118,
+      "phash": "859639e34e983be4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0370.jpg",
+      "timestamp": 4941.122961418823,
+      "phash": "819a96da9c9c4fb4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0371.jpg",
+      "timestamp": 4966.9927151435295,
+      "phash": "859639c35ed9499c",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0500.jpg",
+      "timestamp": 4990.0,
+      "phash": "8593969a9cd03fb1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0373.jpg",
+      "timestamp": 4992.862468868236,
+      "phash": "859639c75ad94996",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0376.jpg",
+      "timestamp": 5018.732222592941,
+      "phash": "859639c75a994da6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0382.jpg",
+      "timestamp": 5044.601976317647,
+      "phash": "d4ec2633d9cc2633",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0506.jpg",
+      "timestamp": 5050.0,
+      "phash": "d1dc249339877927",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0507.jpg",
+      "timestamp": 5060.0,
+      "phash": "d1d82c927d867927",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0508.jpg",
+      "timestamp": 5070.0,
+      "phash": "c1d86c927986792f",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0383.jpg",
+      "timestamp": 5070.471730042354,
+      "phash": "859639f25a9949b6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0509.jpg",
+      "timestamp": 5080.0,
+      "phash": "c1d8649379877927",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0510.jpg",
+      "timestamp": 5090.0,
+      "phash": "c1982d963d8e7927",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0384.jpg",
+      "timestamp": 5096.341483767059,
+      "phash": "d4cc6633c9cc3633",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0511.jpg",
+      "timestamp": 5100.0,
+      "phash": "c1d864927d86796e",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0512.jpg",
+      "timestamp": 5110.0,
+      "phash": "c1982c923d8e79e7",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0513.jpg",
+      "timestamp": 5120.0,
+      "phash": "c1982d963d86d9e6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0385.jpg",
+      "timestamp": 5122.211237491765,
+      "phash": "84963df24ad949b6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0387.jpg",
+      "timestamp": 5148.080991216471,
+      "phash": "859639d35a994db4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0389.jpg",
+      "timestamp": 5173.950744941177,
+      "phash": "959739961ad849a7",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0520.jpg",
+      "timestamp": 5190.0,
+      "phash": "d1d8649b6d867926",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0390.jpg",
+      "timestamp": 5199.820498665883,
+      "phash": "819b96da9dc40ef4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0522.jpg",
+      "timestamp": 5210.0,
+      "phash": "d1d8649b2d8e9927",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0391.jpg",
+      "timestamp": 5225.690252390588,
+      "phash": "94963dd61ad14dc6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0524.jpg",
+      "timestamp": 5230.0,
+      "phash": "c198649379c6f9c6",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0525.jpg",
+      "timestamp": 5240.0,
+      "phash": "c1d864933dc6396e",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0526.jpg",
+      "timestamp": 5250.0,
+      "phash": "c4986596398cb93f",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0395.jpg",
+      "timestamp": 5251.5600061152945,
+      "phash": "859639d35a394d9c",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0527.jpg",
+      "timestamp": 5260.0,
+      "phash": "d1d824933d86d9e6",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0528.jpg",
+      "timestamp": 5270.0,
+      "phash": "d1d8649b6c06d937",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0397.jpg",
+      "timestamp": 5277.42975984,
+      "phash": "859639d25acb1dd4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0399.jpg",
+      "timestamp": 5303.299513564706,
+      "phash": "859639e65a992ba6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0533.jpg",
+      "timestamp": 5320.0,
+      "phash": "d198649b3c86d9e6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0401.jpg",
+      "timestamp": 5329.169267289411,
+      "phash": "8596b1dedad90994",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0405.jpg",
+      "timestamp": 5355.039021014118,
+      "phash": "8494b1d2daf99996",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0539.jpg",
+      "timestamp": 5380.0,
+      "phash": "c498659639ccf8ce",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0406.jpg",
+      "timestamp": 5380.908774738824,
+      "phash": "818e92d89ce43ef5",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0540.jpg",
+      "timestamp": 5390.0,
+      "phash": "c4982d963d8e9b27",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0541.jpg",
+      "timestamp": 5400.0,
+      "phash": "c49835b6791cd33c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0407.jpg",
+      "timestamp": 5406.778528463529,
+      "phash": "859639c65ad9cd94",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0543.jpg",
+      "timestamp": 5420.0,
+      "phash": "c18d92d89cd81ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0409.jpg",
+      "timestamp": 5432.6482821882355,
+      "phash": "859739f3da884d8c",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0410.jpg",
+      "timestamp": 5458.518035912941,
+      "phash": "819f96da9c982db1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0548.jpg",
+      "timestamp": 5470.0,
+      "phash": "c498619679ccd8ed",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0549.jpg",
+      "timestamp": 5480.0,
+      "phash": "819793da9dd40eb4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0411.jpg",
+      "timestamp": 5484.387789637647,
+      "phash": "859639d31acd0db3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0551.jpg",
+      "timestamp": 5500.0,
+      "phash": "d4c7ccb1ce9431cc",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0552.jpg",
+      "timestamp": 5510.0,
+      "phash": "c59696da9dc419b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0413.jpg",
+      "timestamp": 5510.257543362353,
+      "phash": "859739f35a688d32",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0554.jpg",
+      "timestamp": 5530.0,
+      "phash": "d0c7cdb2cd9431c9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0415.jpg",
+      "timestamp": 5536.12729708706,
+      "phash": "859639d25ad909f6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0557.jpg",
+      "timestamp": 5560.0,
+      "phash": "d0c7cdb49b9c31c1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0417.jpg",
+      "timestamp": 5561.997050811765,
+      "phash": "c5e530cf981b33cc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0558.jpg",
+      "timestamp": 5570.0,
+      "phash": "d0c7cd31cf9431c9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0419.jpg",
+      "timestamp": 5587.86680453647,
+      "phash": "c5e439cb981b33cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0421.jpg",
+      "timestamp": 5613.736558261177,
+      "phash": "91962cc6d9e18f39",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0425.jpg",
+      "timestamp": 5639.606311985883,
+      "phash": "c5e538cd9e19b3c0",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0565.jpg",
+      "timestamp": 5640.0,
+      "phash": "819b96da9cd01ef4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0426.jpg",
+      "timestamp": 5665.476065710588,
+      "phash": "81c39ed09d946ebc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0427.jpg",
+      "timestamp": 5691.345819435295,
+      "phash": "c4e419cd9c19bbc6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0429.jpg",
+      "timestamp": 5717.2155731600005,
+      "phash": "c5e439c99c1b33c6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0574.jpg",
+      "timestamp": 5730.0,
+      "phash": "819bd6d89cd04fb4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0431.jpg",
+      "timestamp": 5743.085326884706,
+      "phash": "c4e419cddc19b3cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0433.jpg",
+      "timestamp": 5768.955080609411,
+      "phash": "c5e530cb9c1b33c6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0578.jpg",
+      "timestamp": 5770.0,
+      "phash": "819f92da9cd02fb4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0580.jpg",
+      "timestamp": 5790.0,
+      "phash": "819a96d89cd03ff4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0435.jpg",
+      "timestamp": 5794.824834334118,
+      "phash": "c4e499cd9c1979c6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0439.jpg",
+      "timestamp": 5820.694588058824,
+      "phash": "c9c130cf9c3733d4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0442.jpg",
+      "timestamp": 5846.564341783529,
+      "phash": "85d0f0b70f1f66b0",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0443.jpg",
+      "timestamp": 5872.434095508235,
+      "phash": "95d2f0b0e30f1337",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0444.jpg",
+      "timestamp": 5898.3038492329415,
+      "phash": "95c99cd4cce8e3b0",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0445.jpg",
+      "timestamp": 5924.173602957647,
+      "phash": "94c987b2616ed936",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0594.jpg",
+      "timestamp": 5930.0,
+      "phash": "cccc74c672279939",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0595.jpg",
+      "timestamp": 5940.0,
+      "phash": "cccc6ccc3333d989",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0446.jpg",
+      "timestamp": 5950.043356682353,
+      "phash": "919f2cc35ce41b3c",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0449.jpg",
+      "timestamp": 5975.913110407059,
+      "phash": "c5c130cf9c3733c6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0600.jpg",
+      "timestamp": 5990.0,
+      "phash": "819bd2da9cd41db4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0454.jpg",
+      "timestamp": 6001.782864131765,
+      "phash": "819396d29dd40fbc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0602.jpg",
+      "timestamp": 6010.0,
+      "phash": "c48693da9dd03db1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0457.jpg",
+      "timestamp": 6027.652617856471,
+      "phash": "c5e499c9983b33cc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0606.jpg",
+      "timestamp": 6050.0,
+      "phash": "cccc31996633ce99",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0462.jpg",
+      "timestamp": 6053.522371581176,
+      "phash": "819e96d89dd02fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0607.jpg",
+      "timestamp": 6060.0,
+      "phash": "ccccc98d669b1999",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0608.jpg",
+      "timestamp": 6070.0,
+      "phash": "849e929a9dd43bb1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0463.jpg",
+      "timestamp": 6079.392125305883,
+      "phash": "c9c1308f9c37b7c4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0610.jpg",
+      "timestamp": 6090.0,
+      "phash": "cd89cccc66337364",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0464.jpg",
+      "timestamp": 6105.261879030589,
+      "phash": "819b96d89dcc3ba4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0612.jpg",
+      "timestamp": 6110.0,
+      "phash": "819396d29cd41ff4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0465.jpg",
+      "timestamp": 6131.131632755294,
+      "phash": "c4e439cd9c1b3bc8",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0467.jpg",
+      "timestamp": 6157.001386480001,
+      "phash": "c9c130cd9c3737cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0469.jpg",
+      "timestamp": 6182.8711402047065,
+      "phash": "c9c134cb982f33ce",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0471.jpg",
+      "timestamp": 6208.740893929412,
+      "phash": "959e199a1d9b1d25",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0623.jpg",
+      "timestamp": 6220.0,
+      "phash": "cccc31cc6626de39",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0473.jpg",
+      "timestamp": 6234.610647654117,
+      "phash": "958718da9d999d25",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0625.jpg",
+      "timestamp": 6240.0,
+      "phash": "c4b0936d932db0cf",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0626.jpg",
+      "timestamp": 6250.0,
+      "phash": "c5b4c32c926eb2cb",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0627.jpg",
+      "timestamp": 6260.0,
+      "phash": "c5b4c27cd26d90cb",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0474.jpg",
+      "timestamp": 6260.480401378824,
+      "phash": "819696da9dc41df1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0628.jpg",
+      "timestamp": 6270.0,
+      "phash": "c4b4c33cd32f92c9",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0629.jpg",
+      "timestamp": 6280.0,
+      "phash": "c5b4c32cd22eb267",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0475.jpg",
+      "timestamp": 6286.35015510353,
+      "phash": "85973b901a334f3d",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0477.jpg",
+      "timestamp": 6312.219908828235,
+      "phash": "859e3b961b334e25",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0633.jpg",
+      "timestamp": 6320.0,
+      "phash": "81c39ed28d9c69b5",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0479.jpg",
+      "timestamp": 6338.089662552941,
+      "phash": "859f399a1f334c64",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0483.jpg",
+      "timestamp": 6363.9594162776475,
+      "phash": "859f399a1d336c26",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0638.jpg",
+      "timestamp": 6370.0,
+      "phash": "c5b4d22cd26d99c9",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0485.jpg",
+      "timestamp": 6389.829170002353,
+      "phash": "919638e4caf8cd9a",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0640.jpg",
+      "timestamp": 6390.0,
+      "phash": "818f92c39cb16fb4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0642.jpg",
+      "timestamp": 6410.0,
+      "phash": "81c396da9cdc69b4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0487.jpg",
+      "timestamp": 6415.698923727059,
+      "phash": "c49479c493699f33",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0645.jpg",
+      "timestamp": 6440.0,
+      "phash": "849639c79a992f99",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0491.jpg",
+      "timestamp": 6441.568677451765,
+      "phash": "c09c68c493cd1ff3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0646.jpg",
+      "timestamp": 6450.0,
+      "phash": "859639e35e992ba4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0647.jpg",
+      "timestamp": 6460.0,
+      "phash": "859639e35ad909e6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0492.jpg",
+      "timestamp": 6467.438431176471,
+      "phash": "c09c69a5934b9d73",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0650.jpg",
+      "timestamp": 6490.0,
+      "phash": "859639f35acc29a6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0493.jpg",
+      "timestamp": 6493.308184901177,
+      "phash": "c19e96ca9c9c29b5",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0494.jpg",
+      "timestamp": 6519.177938625882,
+      "phash": "c49c79c492699e73",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0499.jpg",
+      "timestamp": 6545.0476923505885,
+      "phash": "859696da9dd01db1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0500.jpg",
+      "timestamp": 6570.917446075295,
+      "phash": "d19c68c69b6d9a31",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0501.jpg",
+      "timestamp": 6596.7871998,
+      "phash": "819bd6989c9c4fb4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0661.jpg",
+      "timestamp": 6600.0,
+      "phash": "948739961ad949b7",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0662.jpg",
+      "timestamp": 6610.0,
+      "phash": "859639d25af90d96",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0502.jpg",
+      "timestamp": 6622.656953524705,
+      "phash": "c49c79c49b699e31",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0664.jpg",
+      "timestamp": 6630.0,
+      "phash": "859639d35ac919cd",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0507.jpg",
+      "timestamp": 6648.5267072494125,
+      "phash": "819e96d89cd43bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0666.jpg",
+      "timestamp": 6650.0,
+      "phash": "859639d65af94986",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0667.jpg",
+      "timestamp": 6660.0,
+      "phash": "859639f21af80de6",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0668.jpg",
+      "timestamp": 6670.0,
+      "phash": "859739d25b994d85",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0510.jpg",
+      "timestamp": 6674.396460974118,
+      "phash": "c49c7bc4934b9c33",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0671.jpg",
+      "timestamp": 6700.0,
+      "phash": "859639f34e9829e6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0512.jpg",
+      "timestamp": 6700.266214698823,
+      "phash": "c49c79c4926b9cb3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0672.jpg",
+      "timestamp": 6710.0,
+      "phash": "849639c61ad93bd6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0519.jpg",
+      "timestamp": 6726.13596842353,
+      "phash": "c4dc3333cccc3333",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0675.jpg",
+      "timestamp": 6740.0,
+      "phash": "819392d29ddc4fb4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0676.jpg",
+      "timestamp": 6750.0,
+      "phash": "859639d6dad9099c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0525.jpg",
+      "timestamp": 6752.005722148236,
+      "phash": "d472338dcc72338d",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0677.jpg",
+      "timestamp": 6760.0,
+      "phash": "849639c65ed91bd4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0678.jpg",
+      "timestamp": 6770.0,
+      "phash": "859639625ad96da6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0529.jpg",
+      "timestamp": 6777.875475872941,
+      "phash": "d48d3333cccc3333",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0530.jpg",
+      "timestamp": 6803.745229597646,
+      "phash": "859e96da9cc41bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0531.jpg",
+      "timestamp": 6829.6149833223535,
+      "phash": "d4673389cc763389",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0684.jpg",
+      "timestamp": 6830.0,
+      "phash": "85973dd25ac80db6",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0685.jpg",
+      "timestamp": 6840.0,
+      "phash": "859639c35ad90db6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0535.jpg",
+      "timestamp": 6855.484737047059,
+      "phash": "c58e92da99dc19b1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0687.jpg",
+      "timestamp": 6860.0,
+      "phash": "85973dd2dbcc2984",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0689.jpg",
+      "timestamp": 6880.0,
+      "phash": "cdc531979c1333cc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0539.jpg",
+      "timestamp": 6881.354490771765,
+      "phash": "859692da9cd11bf1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0690.jpg",
+      "timestamp": 6890.0,
+      "phash": "c9c130979cb733cc",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0691.jpg",
+      "timestamp": 6900.0,
+      "phash": "cdc530cf9c1333cc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0545.jpg",
+      "timestamp": 6907.224244496471,
+      "phash": "8198d3ce9cc64ef4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0692.jpg",
+      "timestamp": 6910.0,
+      "phash": "cdc13197943733cc",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0694.jpg",
+      "timestamp": 6930.0,
+      "phash": "919638e4daf98f18",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0546.jpg",
+      "timestamp": 6933.093998221177,
+      "phash": "d43333cccc3333cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0547.jpg",
+      "timestamp": 6958.963751945883,
+      "phash": "819b96d89ccc2fe4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0548.jpg",
+      "timestamp": 6984.833505670588,
+      "phash": "d47233cdcc3233c9",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0701.jpg",
+      "timestamp": 7000.0,
+      "phash": "84e159cedc0d79ca",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0549.jpg",
+      "timestamp": 7010.7032593952945,
+      "phash": "819bd6da9cc42ee4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0557.jpg",
+      "timestamp": 7036.573013120001,
+      "phash": "818fd7929cc41ef1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0559.jpg",
+      "timestamp": 7062.442766844706,
+      "phash": "85ce92d89cc43ef1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0561.jpg",
+      "timestamp": 7088.312520569411,
+      "phash": "8193d6da9cd41eb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0562.jpg",
+      "timestamp": 7114.1822742941185,
+      "phash": "c55a6acdb3496259",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0564.jpg",
+      "timestamp": 7140.052028018824,
+      "phash": "85de7acd34132633",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0716.jpg",
+      "timestamp": 7150.0,
+      "phash": "911e6cc26cc37dc3",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0566.jpg",
+      "timestamp": 7165.921781743529,
+      "phash": "85de68cd94336671",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0718.jpg",
+      "timestamp": 7170.0,
+      "phash": "819fd6929cc81ef4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0720.jpg",
+      "timestamp": 7190.0,
+      "phash": "c4e499cd9c1b33c6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0568.jpg",
+      "timestamp": 7191.791535468236,
+      "phash": "85ce7ac594733263",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0570.jpg",
+      "timestamp": 7217.661289192942,
+      "phash": "85da6bcd94336661",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0574.jpg",
+      "timestamp": 7243.531042917647,
+      "phash": "c5ca7acd94632633",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0577.jpg",
+      "timestamp": 7269.400796642352,
+      "phash": "85de6bccb2230e63",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0581.jpg",
+      "timestamp": 7295.2705503670595,
+      "phash": "91c3c39ecc9ccccc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0582.jpg",
+      "timestamp": 7321.140304091765,
+      "phash": "855a68cdb3cb3263",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0734.jpg",
+      "timestamp": 7330.0,
+      "phash": "c9c1349f9c3735c4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0584.jpg",
+      "timestamp": 7347.01005781647,
+      "phash": "c5da6ac590637671",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0736.jpg",
+      "timestamp": 7350.0,
+      "phash": "859e399a1d990d9d",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0737.jpg",
+      "timestamp": 7360.0,
+      "phash": "95971cda1c991c37",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0738.jpg",
+      "timestamp": 7370.0,
+      "phash": "95871cda1d991d27",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0586.jpg",
+      "timestamp": 7372.879811541176,
+      "phash": "c51a6a65b36333cc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0588.jpg",
+      "timestamp": 7398.749565265883,
+      "phash": "c5da6accb2633a49",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0590.jpg",
+      "timestamp": 7424.619318990589,
+      "phash": "c5da6acdb2633258",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0591.jpg",
+      "timestamp": 7450.489072715294,
+      "phash": "c59cb3d899c41bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0592.jpg",
+      "timestamp": 7476.3588264400005,
+      "phash": "c5da6bc5b0631659",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0750.jpg",
+      "timestamp": 7490.0,
+      "phash": "819b96d28ecc67a6",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0751.jpg",
+      "timestamp": 7500.0,
+      "phash": "819e92c39c9c4ff4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0593.jpg",
+      "timestamp": 7502.228580164707,
+      "phash": "85e743384e3433cf",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0752.jpg",
+      "timestamp": 7510.0,
+      "phash": "c49c79c4936b9d31",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0753.jpg",
+      "timestamp": 7520.0,
+      "phash": "c4947bc4926b9db1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0594.jpg",
+      "timestamp": 7528.098333889412,
+      "phash": "c5da6ac5b2633271",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0596.jpg",
+      "timestamp": 7553.968087614117,
+      "phash": "c54e6ac594337953",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0598.jpg",
+      "timestamp": 7579.837841338825,
+      "phash": "c54a6ac494b37a73",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0759.jpg",
+      "timestamp": 7580.0,
+      "phash": "c49c7bc493699c71",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0599.jpg",
+      "timestamp": 7605.70759506353,
+      "phash": "859b96d89dd419b1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0600.jpg",
+      "timestamp": 7631.577348788235,
+      "phash": "c54a7ae594337853",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0601.jpg",
+      "timestamp": 7657.447102512941,
+      "phash": "819f96d89cc41fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0602.jpg",
+      "timestamp": 7683.316856237648,
+      "phash": "c55a7ac594e32e31",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0604.jpg",
+      "timestamp": 7709.186609962353,
+      "phash": "c55a6bc5b1c33619",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0606.jpg",
+      "timestamp": 7735.056363687058,
+      "phash": "c5da6ac594637278",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0775.jpg",
+      "timestamp": 7740.0,
+      "phash": "81d39ec29c944fbc",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0777.jpg",
+      "timestamp": 7760.0,
+      "phash": "d6a9aba9ae1e5052",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0607.jpg",
+      "timestamp": 7760.9261174117655,
+      "phash": "859a92da9cc43fb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0608.jpg",
+      "timestamp": 7786.795871136471,
+      "phash": "c55e6bc590636659",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0610.jpg",
+      "timestamp": 7812.665624861176,
+      "phash": "c55a6bcdb1336251",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0612.jpg",
+      "timestamp": 7838.535378585882,
+      "phash": "91cfc93966324e99",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0615.jpg",
+      "timestamp": 7864.405132310589,
+      "phash": "95cfc91966324799",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0621.jpg",
+      "timestamp": 7890.274886035294,
+      "phash": "c59593726e6c2dc4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0622.jpg",
+      "timestamp": 7916.14463976,
+      "phash": "91cfc9d90c332766",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0793.jpg",
+      "timestamp": 7920.0,
+      "phash": "848fd39289943ff1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0623.jpg",
+      "timestamp": 7942.0143934847065,
+      "phash": "91cd60c3c7c70fe1",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0796.jpg",
+      "timestamp": 7950.0,
+      "phash": "85da6bccb1626653",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0797.jpg",
+      "timestamp": 7960.0,
+      "phash": "c5de6acd94334271",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0628.jpg",
+      "timestamp": 7967.884147209413,
+      "phash": "91f369700f63ce31",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0798.jpg",
+      "timestamp": 7970.0,
+      "phash": "c5de79cc31430673",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0799.jpg",
+      "timestamp": 7980.0,
+      "phash": "c5de68cd94732271",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0629.jpg",
+      "timestamp": 7993.753900934118,
+      "phash": "91e361f05bc2ce71",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0802.jpg",
+      "timestamp": 8010.0,
+      "phash": "85de6a4d96633263",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0630.jpg",
+      "timestamp": 8019.623654658823,
+      "phash": "85e763963a309e65",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0803.jpg",
+      "timestamp": 8020.0,
+      "phash": "85da7acf90730671",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0632.jpg",
+      "timestamp": 8045.493408383531,
+      "phash": "85c763921a369bcd",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0806.jpg",
+      "timestamp": 8050.0,
+      "phash": "919996d29c9c4fa6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0633.jpg",
+      "timestamp": 8071.363162108236,
+      "phash": "819b92da9cdc4eb4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0634.jpg",
+      "timestamp": 8097.232915832941,
+      "phash": "91e34d331c641fcd",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0636.jpg",
+      "timestamp": 8123.102669557647,
+      "phash": "85e749669a792792",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0815.jpg",
+      "timestamp": 8140.0,
+      "phash": "c5da6ac490633e73",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0638.jpg",
+      "timestamp": 8148.972423282354,
+      "phash": "d4d93326ccd93326",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0818.jpg",
+      "timestamp": 8170.0,
+      "phash": "819b96969dd41ee1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0641.jpg",
+      "timestamp": 8174.842177007059,
+      "phash": "819b96c29c9c6bb5",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0819.jpg",
+      "timestamp": 8180.0,
+      "phash": "c54a7ac594733873",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0644.jpg",
+      "timestamp": 8200.711930731764,
+      "phash": "d4993366cc993366",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0645.jpg",
+      "timestamp": 8226.58168445647,
+      "phash": "8193d6d29cd42fb4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0825.jpg",
+      "timestamp": 8240.0,
+      "phash": "91cfcc1c39332793",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0657.jpg",
+      "timestamp": 8252.451438181177,
+      "phash": "819b96d89dc43db1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0660.jpg",
+      "timestamp": 8278.321191905883,
+      "phash": "c4c48ecc3133e1fe",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0662.jpg",
+      "timestamp": 8304.190945630588,
+      "phash": "c0e6cecc3132f1dc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0664.jpg",
+      "timestamp": 8330.060699355296,
+      "phash": "c0e68e6c313b71ce",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0665.jpg",
+      "timestamp": 8355.93045308,
+      "phash": "819892da9df40ff4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0667.jpg",
+      "timestamp": 8381.800206804706,
+      "phash": "818796db9c906bb5",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0672.jpg",
+      "timestamp": 8407.66996052941,
+      "phash": "c0e6cecc313370de",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0842.jpg",
+      "timestamp": 8410.0,
+      "phash": "8199d6d89dd40ef4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0675.jpg",
+      "timestamp": 8433.539714254119,
+      "phash": "859e92da9cc03df1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0676.jpg",
+      "timestamp": 8459.409467978823,
+      "phash": "c0c6cecc333370dd",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0847.jpg",
+      "timestamp": 8460.0,
+      "phash": "95e349321a6d36cb",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0848.jpg",
+      "timestamp": 8470.0,
+      "phash": "91e349325b6c37c3",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0682.jpg",
+      "timestamp": 8485.27922170353,
+      "phash": "c0c4cecc313b71de",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0683.jpg",
+      "timestamp": 8511.148975428236,
+      "phash": "819ad6ce9cd44eb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0687.jpg",
+      "timestamp": 8537.018729152942,
+      "phash": "819e92da9cf00fb5",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0857.jpg",
+      "timestamp": 8560.0,
+      "phash": "859b96da9cd01fb0",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0694.jpg",
+      "timestamp": 8562.888482877646,
+      "phash": "c0c6cecc319b70f6",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0696.jpg",
+      "timestamp": 8588.758236602353,
+      "phash": "c0c4cedc313371ee",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0862.jpg",
+      "timestamp": 8610.0,
+      "phash": "819f9cc89cb06bb5",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0700.jpg",
+      "timestamp": 8614.627990327059,
+      "phash": "c0e4cecc309b717e",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0701.jpg",
+      "timestamp": 8640.497744051765,
+      "phash": "819bd6d89ecc0fa4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0866.jpg",
+      "timestamp": 8650.0,
+      "phash": "859b96da9cc41db1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0703.jpg",
+      "timestamp": 8666.367497776471,
+      "phash": "819b96d29cdc4fa4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0869.jpg",
+      "timestamp": 8680.0,
+      "phash": "c0e6cecc319b6176",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0710.jpg",
+      "timestamp": 8692.237251501176,
+      "phash": "c0e6cecc309b713b",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0872.jpg",
+      "timestamp": 8710.0,
+      "phash": "818f94db9c986bb4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0713.jpg",
+      "timestamp": 8718.107005225884,
+      "phash": "94c7c9946b9839f4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0714.jpg",
+      "timestamp": 8743.976758950588,
+      "phash": "819cd6c69cb03bb3",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0715.jpg",
+      "timestamp": 8769.846512675294,
+      "phash": "d487cb949b9c1933",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0717.jpg",
+      "timestamp": 8795.7162664,
+      "phash": "9087c9946f9c3973",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0719.jpg",
+      "timestamp": 8821.586020124707,
+      "phash": "9487cb99639c3b31",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0721.jpg",
+      "timestamp": 8847.455773849411,
+      "phash": "94c6c9c6389d3b33",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0723.jpg",
+      "timestamp": 8873.325527574118,
+      "phash": "9087c9db279c3933",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0725.jpg",
+      "timestamp": 8899.195281298824,
+      "phash": "9086cb945b9e1d73",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0727.jpg",
+      "timestamp": 8925.06503502353,
+      "phash": "90c6c9954f9c3973",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0896.jpg",
+      "timestamp": 8950.0,
+      "phash": "9487cb9c739c3931",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0729.jpg",
+      "timestamp": 8950.934788748234,
+      "phash": "9487cb914b9c3973",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0897.jpg",
+      "timestamp": 8960.0,
+      "phash": "d087cddaa7981b31",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0731.jpg",
+      "timestamp": 8976.804542472943,
+      "phash": "d56c3613c96c3693",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0901.jpg",
+      "timestamp": 9000.0,
+      "phash": "9487cd91639c3b71",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0733.jpg",
+      "timestamp": 9002.674296197647,
+      "phash": "d54c3693c94c36b3",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0735.jpg",
+      "timestamp": 9028.544049922353,
+      "phash": "d5cc3613c9cc3633",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0905.jpg",
+      "timestamp": 9040.0,
+      "phash": "819996ce9c9c4db6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0739.jpg",
+      "timestamp": 9054.41380364706,
+      "phash": "c065d67936da1d2c",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0741.jpg",
+      "timestamp": 9080.283557371766,
+      "phash": "c16d94726cd22f36",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0742.jpg",
+      "timestamp": 9106.15331109647,
+      "phash": "819b96da9ccc2bb4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0743.jpg",
+      "timestamp": 9132.023064821176,
+      "phash": "c06d947364d23f36",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0745.jpg",
+      "timestamp": 9157.892818545883,
+      "phash": "c067ccf324cc9d6c",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0918.jpg",
+      "timestamp": 9170.0,
+      "phash": "c16d946364da273e",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0919.jpg",
+      "timestamp": 9180.0,
+      "phash": "c16d94626cd2677c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0746.jpg",
+      "timestamp": 9183.762572270589,
+      "phash": "c064de7164dc1d3e",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0920.jpg",
+      "timestamp": 9190.0,
+      "phash": "c06d94623cd26f7c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0747.jpg",
+      "timestamp": 9209.632325995295,
+      "phash": "c06d986664da6f3c",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0749.jpg",
+      "timestamp": 9235.50207972,
+      "phash": "c065d67164da1b3e",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0927.jpg",
+      "timestamp": 9260.0,
+      "phash": "c065d27364da1f36",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0751.jpg",
+      "timestamp": 9261.371833444708,
+      "phash": "c065967966dc1b1d",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0928.jpg",
+      "timestamp": 9270.0,
+      "phash": "c065927166db3b36",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0753.jpg",
+      "timestamp": 9287.241587169412,
+      "phash": "c065d67166da1d3c",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0930.jpg",
+      "timestamp": 9290.0,
+      "phash": "819396da9cdc0ebc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0755.jpg",
+      "timestamp": 9313.111340894118,
+      "phash": "c065de7166d81d2e",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0757.jpg",
+      "timestamp": 9338.981094618823,
+      "phash": "c064d67964d83d3e",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0759.jpg",
+      "timestamp": 9364.85084834353,
+      "phash": "c064d271e6d90dee",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0939.jpg",
+      "timestamp": 9380.0,
+      "phash": "c064d6d966dc8d66",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0760.jpg",
+      "timestamp": 9390.720602068235,
+      "phash": "c066c67166d91d6e",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0941.jpg",
+      "timestamp": 9400.0,
+      "phash": "c064da7166d81d7e",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0942.jpg",
+      "timestamp": 9410.0,
+      "phash": "c064d27966d89d6e",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0768.jpg",
+      "timestamp": 9416.590355792941,
+      "phash": "b5c73e98c6662cc8",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0943.jpg",
+      "timestamp": 9420.0,
+      "phash": "81989ece8cf43bb4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0770.jpg",
+      "timestamp": 9442.460109517648,
+      "phash": "e5875a3096ce6c36",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0946.jpg",
+      "timestamp": 9450.0,
+      "phash": "c064da7166d92d76",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0772.jpg",
+      "timestamp": 9468.329863242354,
+      "phash": "c4c73ab486ec3993",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0773.jpg",
+      "timestamp": 9494.199616967058,
+      "phash": "819796da9dd40db4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0951.jpg",
+      "timestamp": 9500.0,
+      "phash": "b5c72eb8c6662c98",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0952.jpg",
+      "timestamp": 9510.0,
+      "phash": "95c5683596e26376",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0953.jpg",
+      "timestamp": 9520.0,
+      "phash": "e5c71b34c6cc6466",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0774.jpg",
+      "timestamp": 9520.069370691765,
+      "phash": "b5c71cb6c62c34c3",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0954.jpg",
+      "timestamp": 9530.0,
+      "phash": "b5c638b3d32f2183",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0776.jpg",
+      "timestamp": 9545.93912441647,
+      "phash": "c48718b6ce79939a",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0957.jpg",
+      "timestamp": 9560.0,
+      "phash": "a58669e2962e279e",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0958.jpg",
+      "timestamp": 9570.0,
+      "phash": "b1c31de6c33661c6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0777.jpg",
+      "timestamp": 9571.808878141177,
+      "phash": "8198d7da99cc1db4",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0959.jpg",
+      "timestamp": 9580.0,
+      "phash": "81de93da9cd409b5",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0778.jpg",
+      "timestamp": 9597.678631865883,
+      "phash": "859718964939db79",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0784.jpg",
+      "timestamp": 9623.548385590588,
+      "phash": "c4c629e58cb56dcc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0786.jpg",
+      "timestamp": 9649.418139315294,
+      "phash": "d1d32c70c7983967",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0787.jpg",
+      "timestamp": 9675.28789304,
+      "phash": "819b96d89dcc4eb4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0788.jpg",
+      "timestamp": 9701.157646764706,
+      "phash": "d1c32c67cf342666",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0972.jpg",
+      "timestamp": 9710.0,
+      "phash": "c1d239e5ce346666",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0790.jpg",
+      "timestamp": 9727.027400489413,
+      "phash": "d1d33c628fb02766",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0974.jpg",
+      "timestamp": 9730.0,
+      "phash": "d1c33c64cf3426e6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0792.jpg",
+      "timestamp": 9752.897154214119,
+      "phash": "d1c33c6387322776",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0977.jpg",
+      "timestamp": 9760.0,
+      "phash": "c1c63d668e7426f4",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_0978.jpg",
+      "timestamp": 9770.0,
+      "phash": "d0632e638d72a3dc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0794.jpg",
+      "timestamp": 9778.766907938823,
+      "phash": "d1d33c621d722774",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0981.jpg",
+      "timestamp": 9800.0,
+      "phash": "c5ce1cd99c39990e",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0796.jpg",
+      "timestamp": 9804.63666166353,
+      "phash": "85c61cd98edc9999",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0982.jpg",
+      "timestamp": 9810.0,
+      "phash": "c5cc19db9c99938c",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0803.jpg",
+      "timestamp": 9830.506415388236,
+      "phash": "819396d29c9c4fbc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0807.jpg",
+      "timestamp": 9856.376169112942,
+      "phash": "819396da9cd44dbc",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0808.jpg",
+      "timestamp": 9882.245922837647,
+      "phash": "d0933ccc4f4c1b97",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0991.jpg",
+      "timestamp": 9900.0,
+      "phash": "819896d29cdc4fe6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0812.jpg",
+      "timestamp": 9908.115676562353,
+      "phash": "d4662799d9662699",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_0993.jpg",
+      "timestamp": 9920.0,
+      "phash": "859396da9d9449bc",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0814.jpg",
+      "timestamp": 9933.985430287059,
+      "phash": "d46626d9d92626d9",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0816.jpg",
+      "timestamp": 9959.855184011765,
+      "phash": "c0933ccc4f7c1397",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0818.jpg",
+      "timestamp": 9985.724937736471,
+      "phash": "d0933ccc4f7c13b1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0820.jpg",
+      "timestamp": 10011.594691461178,
+      "phash": "c0933ccc4e7c33b3",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0822.jpg",
+      "timestamp": 10037.464445185882,
+      "phash": "c0973cce4e7813b3",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0826.jpg",
+      "timestamp": 10063.334198910588,
+      "phash": "c5d66e6c19633a19",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0828.jpg",
+      "timestamp": 10089.203952635295,
+      "phash": "c5d668cd39326371",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1011.jpg",
+      "timestamp": 10100.0,
+      "phash": "859b96da9d940bb1",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_1012.jpg",
+      "timestamp": 10110.0,
+      "phash": "c0973ccc4e7033b7",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0830.jpg",
+      "timestamp": 10115.07370636,
+      "phash": "c5d66c4d39637b01",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1015.jpg",
+      "timestamp": 10140.0,
+      "phash": "c5c66e6c18633b39",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0832.jpg",
+      "timestamp": 10140.943460084707,
+      "phash": "c5d6686d33c67831",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1016.jpg",
+      "timestamp": 10150.0,
+      "phash": "c5d26c4d39e23b31",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_1017.jpg",
+      "timestamp": 10160.0,
+      "phash": "c5c66c4d39e37a41",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0834.jpg",
+      "timestamp": 10166.813213809412,
+      "phash": "c5d268cd39e27a31",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1019.jpg",
+      "timestamp": 10180.0,
+      "phash": "c5d46ecc39336949",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_1020.jpg",
+      "timestamp": 10190.0,
+      "phash": "c5d668cc33a37a61",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0836.jpg",
+      "timestamp": 10192.682967534118,
+      "phash": "c5d668cc39c37b11",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1022.jpg",
+      "timestamp": 10210.0,
+      "phash": "81d396ce9c946bb4",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0838.jpg",
+      "timestamp": 10218.552721258824,
+      "phash": "c5d268cc31e37a71",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1024.jpg",
+      "timestamp": 10230.0,
+      "phash": "c5de2ecd30633269",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_1025.jpg",
+      "timestamp": 10240.0,
+      "phash": "c5de684db0633749",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0840.jpg",
+      "timestamp": 10244.42247498353,
+      "phash": "c5d66e6d33827941",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0841.jpg",
+      "timestamp": 10270.292228708235,
+      "phash": "819bd6d28c9c2fb4",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0842.jpg",
+      "timestamp": 10296.161982432943,
+      "phash": "c5d66e6c333278c1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0844.jpg",
+      "timestamp": 10322.031736157647,
+      "phash": "c5d6684d13633e59",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0846.jpg",
+      "timestamp": 10347.901489882353,
+      "phash": "c59e68cd33633349",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0848.jpg",
+      "timestamp": 10373.771243607058,
+      "phash": "c5d6686d9363324b",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0852.jpg",
+      "timestamp": 10399.640997331766,
+      "phash": "c43933c6cc3933e6",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1042.jpg",
+      "timestamp": 10410.0,
+      "phash": "819bcb96da851ef0",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0856.jpg",
+      "timestamp": 10425.51075105647,
+      "phash": "d4c83373cccc3333",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1046.jpg",
+      "timestamp": 10450.0,
+      "phash": "819f96da9cd419b1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0862.jpg",
+      "timestamp": 10451.380504781177,
+      "phash": "c4f9330eccf93306",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0865.jpg",
+      "timestamp": 10477.250258505883,
+      "phash": "859396d89ec43bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0871.jpg",
+      "timestamp": 10503.120012230589,
+      "phash": "819bce9698c53ef0",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0876.jpg",
+      "timestamp": 10528.989765955295,
+      "phash": "c4673389cc673399",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0886.jpg",
+      "timestamp": 10554.85951968,
+      "phash": "d172668999766699",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0887.jpg",
+      "timestamp": 10580.729273404706,
+      "phash": "819bd6d89de40eb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0893.jpg",
+      "timestamp": 10606.599027129412,
+      "phash": "819b96da9cc03ef1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0897.jpg",
+      "timestamp": 10632.468780854118,
+      "phash": "819396da9dc41eb5",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0898.jpg",
+      "timestamp": 10658.338534578823,
+      "phash": "d137269d99362699",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0901.jpg",
+      "timestamp": 10684.208288303531,
+      "phash": "819ad3ce9cd40cf5",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0904.jpg",
+      "timestamp": 10710.078042028235,
+      "phash": "d473338ccc73338c",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0914.jpg",
+      "timestamp": 10735.947795752942,
+      "phash": "94cf8c309f30cfcc",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1075.jpg",
+      "timestamp": 10740.0,
+      "phash": "95cf8c309b30cfd8",
+      "source": "periodic"
+    },
+    {
+      "filename": "periodic_1076.jpg",
+      "timestamp": 10750.0,
+      "phash": "948fcd319e30cbc6",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0918.jpg",
+      "timestamp": 10761.817549477648,
+      "phash": "94cf8d309e30cfca",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1078.jpg",
+      "timestamp": 10770.0,
+      "phash": "948f89309e31cfce",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0920.jpg",
+      "timestamp": 10787.687303202354,
+      "phash": "94cf99a49a6c67c8",
+      "source": "scene"
+    },
+    {
+      "filename": "periodic_1080.jpg",
+      "timestamp": 10790.0,
+      "phash": "c59e93da99c01bb1",
+      "source": "periodic"
+    },
+    {
+      "filename": "scene_0922.jpg",
+      "timestamp": 10813.557056927059,
+      "phash": "948f0db19e31c6ce",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0923.jpg",
+      "timestamp": 10839.426810651765,
+      "phash": "859692da9dd41bb1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0924.jpg",
+      "timestamp": 10865.296564376471,
+      "phash": "94cf8d309e31ce9a",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0926.jpg",
+      "timestamp": 10891.166318101177,
+      "phash": "94cfcd308e30cbce",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0929.jpg",
+      "timestamp": 10917.036071825882,
+      "phash": "8593d6d89cc43fb0",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0933.jpg",
+      "timestamp": 10942.905825550588,
+      "phash": "859e92d89cc43bf1",
+      "source": "scene"
+    },
+    {
+      "filename": "scene_0944.jpg",
+      "timestamp": 10968.775579275294,
+      "phash": "d48d3327cc8d3372",
+      "source": "scene"
+    }
+  ]
+}

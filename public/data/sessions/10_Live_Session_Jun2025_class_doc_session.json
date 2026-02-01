@@ -1,0 +1,150 @@
+{
+  "video_name": "10_Live_Session_Jun2025",
+  "title": "10 Live Session Jun2025",
+  "duration_seconds": 11574.037333,
+  "toc": [
+    {
+      "topic_id": "portfolio-construction-models-and-alpha-generation",
+      "title": "Portfolio Construction Models and Alpha Generation",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "frontier-tech-and-asymmetric-investment-strategy",
+      "title": "Frontier Tech and Asymmetric Investment Strategy",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "stock-classification-and-valuation-framework",
+      "title": "Stock Classification and Valuation Framework",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "growth-vs-value-rotation-and-market-context",
+      "title": "Growth vs Value Rotation and Market Context",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "indian-market-investment-strategy-and-themes",
+      "title": "Indian Market Investment Strategy and Themes",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "tax-efficient-trading-and-geographic-allocation",
+      "title": "Tax-Efficient Trading and Geographic Allocation",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "commodity-analysis-and-banking-sector-rotation",
+      "title": "Commodity Analysis and Banking Sector Rotation",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "portfolio-rebalancing-and-capital-rotation",
+      "title": "Portfolio Rebalancing and Capital Rotation",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "position-management-and-diversification-rules",
+      "title": "Position Management and Diversification Rules",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "key-takeaways",
+      "title": "Key Takeaways",
+      "level": 1,
+      "children": []
+    }
+  ],
+  "sections": [
+    {
+      "topic_id": "portfolio-construction-models-and-alpha-generation",
+      "title": "Portfolio Construction Models and Alpha Generation",
+      "content": "Two distinct portfolio approaches are taught: Portfolio One (bulk investment with capital rotation) and Portfolio Two (systematic investment plan for salary-based investing). Portfolio One has generated ~20% alpha versus NASDAQ benchmark (-2%), achieving 18% total returns through strategic capital deployment.\n\nThe core philosophy emphasizes position sizing and timing over stock selection: \"It's not about what stock you're buying. The point is: how much do you buy? At what situation? And when do you exit?\" Maximum position size is capped at 5% per individual stock.\n\n**Capital Deployment Strategy**: Deploy significant capital at identified entry points while reserving 20% for future opportunities. The April market entry deployed ~60% of portfolio capital, with remaining reserves for market, segment, or stock-level opportunities.\n\n![Figure: Portfolio performance metrics showing 18% total returns vs -2% NASDAQ benchmark](frame:periodic_0025.jpg)",
+      "frame_files": [
+        "periodic_0025.jpg"
+      ],
+      "subsections": []
+    },
+    {
+      "topic_id": "frontier-tech-and-asymmetric-investment-strategy",
+      "title": "Frontier Tech and Asymmetric Investment Strategy",
+      "content": "Frontier tech represents 10-15% portfolio allocation focused on emerging technologies expected to mature in 3-5 years. These asymmetric bets target 100x upside potential with total loss downside, requiring position sizing that allows for complete capital loss.\n\n**Bitcoin Trading Strategy**: Use 200-day moving average as entry signal. Buy Bitcoin when price falls on or below 200 DMA (daily basis). Current price above 200 DMA indicates no buying zone.\n\n**Position Psychology**: \"If it goes 300 percent up, so be it. If it falls 95 percent, so be it.\" Success rate expectation: 3 out of 20 positions survive, but winners must generate sufficient returns to offset 85% failure rate.\n\n![Figure: Bitcoin daily chart showing 200-day moving average entry signals](frame:periodic_0095.jpg)",
+      "frame_files": [
+        "periodic_0095.jpg"
+      ],
+      "subsections": []
+    },
+    {
+      "topic_id": "stock-classification-and-valuation-framework",
+      "title": "Stock Classification and Valuation Framework",
+      "content": "Three stock categories require different valuation approaches:\n- **Standard stocks**: Mature businesses with predictable valuations (use 200 DMA)\n- **Frontier stocks**: High-growth companies with uncertain futures \n- **Asymmetric bets**: Valuations cannot be judged using traditional metrics\n\n**Earnings Surprise Dynamics**: Stock movements depend on beating/missing expectations, not absolute performance. Pre-earnings exits are justified when upside is already priced in but downside risk remains asymmetric.\n\n**Three-Pillar Assessment**: Every investment requires evaluation of (1) business quality, (2) valuation, and (3) market sentiment/context.",
+      "frame_files": [],
+      "subsections": []
+    },
+    {
+      "topic_id": "growth-vs-value-rotation-and-market-context",
+      "title": "Growth vs Value Rotation and Market Context",
+      "content": "Current market regime favors growth stocks due to central bank liquidity injection. Banking stocks growing at 14-15% annually (matching GDP growth) offer no alpha over broad indices, justifying rotation to higher-growth alternatives.\n\n**Sector Rotation Discipline**: Exit sectors before they fall out of favor. Fintech stocks held 6-7 months ago when out of favor have since delivered 40-50% returns, triggering profit-taking.\n\n**Risk-Reward Framework**: Cut positions when risk-reward becomes unfavorable (1:1 ratio). HDFC Bank with 10% downside risk requires at least 15-20% upside potential to justify holding.\n\n![Figure: Stock holdings table showing growth-heavy positioning in mega-cap tech](frame:periodic_0333.jpg)",
+      "frame_files": [
+        "periodic_0333.jpg"
+      ],
+      "subsections": []
+    },
+    {
+      "topic_id": "indian-market-investment-strategy-and-themes",
+      "title": "Indian Market Investment Strategy and Themes",
+      "content": "Focus on secularly bullish companies benefiting from structural volume growth: exchanges (NSE, MCX), healthcare (Max Hospital), and aggregator platforms (Swiggy). These businesses expand margins while scaling volume in India's growth environment.\n\n**Margin Expansion Thesis**: \"In India, the problem is not that you are able to sell enough. When the margin is where the problem is.\" Winners are companies that can expand margins alongside volume growth.\n\n**Knowledge Alpha**: Exploit market inefficiencies through superior understanding of manipulative market structures. \"Every market is manipulative, right? That is where knowledge alpha comes in.\"",
+      "frame_files": [],
+      "subsections": []
+    },
+    {
+      "topic_id": "tax-efficient-trading-and-geographic-allocation",
+      "title": "Tax-Efficient Trading and Geographic Allocation",
+      "content": "UAE's zero short-term capital gains tax enables frequent portfolio rebalancing without tax drag. Use MACD momentum signals for swing trading in tax-efficient jurisdictions while avoiding similar strategies in high-tax markets.\n\n**Geographic Allocation**: For Indian tax residents, recommend 50% India / 50% US split. US markets offer frontier tech exposure and deeper liquidity, while India provides structural growth themes.\n\n**Currency Optimization**: Use multicurrency bank accounts to avoid 2-3% forex markup fees. Link USD accounts directly to trading platforms for efficient capital deployment.\n\n![Figure: NIFTY 50 chart showing MACD crossover signals for swing trading](frame:periodic_0605.jpg)",
+      "frame_files": [
+        "periodic_0605.jpg"
+      ],
+      "subsections": []
+    },
+    {
+      "topic_id": "commodity-analysis-and-banking-sector-rotation",
+      "title": "Commodity Analysis and Banking Sector Rotation",
+      "content": "Commodity pricing is impossible due to elastic supply responding to price changes. Higher prices incentivize increased mining and extraction, creating equilibrium pressures that make long-term price prediction futile.\n\n**Banking Sector Exit**: Completely sold Bank Nifty and private bank ETF positions after 2+ years of strong performance. Banking growth at 14-15% annually offers no outperformance versus broader market indices.\n\n**Real Estate Risk Management**: Real estate is concentrated and illiquid, creating capital traps if disputes or market conditions deteriorate. Maintenance costs typically consume 15-20% of rental income.",
+      "frame_files": [],
+      "subsections": []
+    },
+    {
+      "topic_id": "portfolio-rebalancing-and-capital-rotation",
+      "title": "Portfolio Rebalancing and Capital Rotation",
+      "content": "Rebalance based on opportunity cost, not fear. Sell mature positions to fund higher-growth opportunities when valuations warrant rotation. Current environment favors growth over value; accumulate value positions opportunistically at 10% portfolio allocation.\n\n**Behavioral Pitfalls**: Avoid chasing momentum during rallies and panic-selling during downturns—the primary mistake of 80-90% of novice investors.\n\n**Forward-Looking Analysis**: \"You have to anticipate what is going to happen like one year from now. That's where the most money is made.\" Position for H1 2026 corporate earnings slowdown due to policy changes.",
+      "frame_files": [],
+      "subsections": []
+    },
+    {
+      "topic_id": "position-management-and-diversification-rules",
+      "title": "Position Management and Diversification Rules",
+      "content": "Maintain strict 5% maximum position size regardless of conviction level. \"I am not a concentrated investor. I don't work with your principles.\" Diversification across 20 quality stocks provides psychological comfort and risk management.\n\n**Valuation-Driven Decisions**: Most investment decisions are tactical, valuation-driven entries/exits rather than long-term holding periods. Long-term holding only justified for frontier tech where progress cannot be fast-tracked.\n\n**Liquidity Management**: Maintain 60-70% portfolio liquidity to deploy capital when opportunities arise. Current 20-25% cash position below target suggests some deployment completed.\n\n![Figure: Position sizing rules and diversification framework](frame:periodic_1141.jpg)",
+      "frame_files": [
+        "periodic_1141.jpg"
+      ],
+      "subsections": []
+    },
+    {
+      "topic_id": "key-takeaways",
+      "title": "Key Takeaways",
+      "content": "• **Position sizing trumps stock selection** — maximum 5% per position, regardless of conviction\n• **Alpha generation requires systematic approach** — 20% outperformance achieved through disciplined capital deployment\n• **Frontier tech allocation** — 10-15% in asymmetric bets with 100x upside potential\n• **Sector rotation timing** — exit before sectors fall out of favor; rotate from value to growth in current regime  \n• **Tax-efficient execution** — structure trades based on jurisdiction to minimize tax drag\n• **Valuation flexibility** — most decisions are tactical based on changing valuations, not permanent holdings\n• **Behavioral discipline** — avoid momentum chasing and panic selling that destroys 80-90% of investor wealth\n• **Geographic diversification** — balance allocation based on tax residency and market access\n• **Liquidity preservation** — maintain 60-70% liquid assets for opportunistic deployment\n• **Forward-looking positioning** — anticipate market conditions 1 year ahead for maximum profit potential",
+      "frame_files": [],
+      "subsections": []
+    }
+  ],
+  "assembled_doc_filename": "10_Live_Session_Jun2025.md"
+}

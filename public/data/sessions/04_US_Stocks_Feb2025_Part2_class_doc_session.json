@@ -1,0 +1,53 @@
+{
+  "video_name": "04_US_Stocks_Feb2025_Part2",
+  "title": "04 Us Stocks Feb2025 Part2",
+  "duration_seconds": 7514.048,
+  "toc": [
+    {
+      "topic_id": "fundamental-technical-analysis-integration",
+      "title": "Fundamental & Technical Analysis Integration",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "position-building-margin-of-safety",
+      "title": "Position Building & Margin of Safety",
+      "level": 1,
+      "children": []
+    },
+    {
+      "topic_id": "key-takeaways",
+      "title": "Key Takeaways",
+      "level": 1,
+      "children": []
+    }
+  ],
+  "sections": [
+    {
+      "topic_id": "fundamental-technical-analysis-integration",
+      "title": "Fundamental & Technical Analysis Integration",
+      "content": "The core methodology combines fundamental business analysis with technical chart patterns, but **fundamental analysis must come first**. Stock selection begins with determining whether the business will become more valuable over time. Only after passing fundamental screening should technical analysis be applied for entry timing.\n\n**The Fundamental-First Framework:**\n- Conduct fundamental analysis to assess if the business will appreciate over time\n- Apply technical analysis only after fundamental conviction is established\n- Use technical trends for timing entry points and position building\n- Never use technicals alone to justify entry decisions\n\nTechnical trends can reverse rapidly before meaningful positions are built. Fundamental conviction provides the foundation for holding through volatility, while technical analysis serves as a tactical tool for execution timing.\n\n**Segment-Level Analysis is Critical:**\nRevenue must be analyzed by business segment to identify growth catalysts and headwinds. Track year-over-year growth rates for each segment and investigate significant moves (>20% changes). Distinguish between temporary factors (inventory cycles) and structural changes (market share loss).\n\n![Figure: AMD stock chart showing 52% decline from peak with multiple trend lines and technical levels](frame:scene_0008.jpg)\n\n**AMD Case Study:** Despite a 52% stock decline, fundamental analysis reveals the gaming segment weakness (-59% YoY) is due to temporary console inventory clearance by Microsoft/Sony, not permanent demand destruction. The data center segment remains strong (+69% YoY), indicating the core business thesis remains intact.\n\n**Key Rules:**\n- Forward P/E is more relevant than current P/E for valuation assessment\n- Segment analysis requires investigating root causes of significant revenue changes\n- Product lifecycles (4-5 years for gaming consoles) create temporary inventory distortions\n- US market transparency enables thorough fundamental analysis through clean quarterly data",
+      "frame_files": [
+        "scene_0008.jpg"
+      ],
+      "subsections": []
+    },
+    {
+      "topic_id": "position-building-margin-of-safety",
+      "title": "Position Building & Margin of Safety",
+      "content": "Position building involves systematic capital deployment over time rather than lump-sum investing. The framework centers on maintaining a 5-6% margin of safety threshold through staged deployment.\n\n**Margin of Safety Calculation:**\n- **External Margin of Safety:** Percentage decline from market all-time high\n- **Internal Margin of Safety:** Unrealized gains on deployed capital\n- **Combined Margin of Safety:** Sum of external + internal margins\n\n**Position Building Framework for $1M Target Portfolio:**\n\n| Phase | Deployment | Trigger | Margin of Safety Target |\n|-------|------------|---------|------------------------|\n| Initial | $200K (20%) | Market near highs | Build internal margin |\n| Scaling | Additional tranches | Market falls 5-10% | Restore to 5-6% |\n| Opportunistic | $100K-$300K | 10%+ margin expansion | Maintain threshold |\n\n![Figure: Portfolio construction example showing margin of safety calculations and deployment tranches](frame:scene_0144.jpg)\n\n**Deployment Discipline Rules:**\n- Never deploy full allocation when market is near peaks (2.5-3% from highs)\n- Deploy additional capital when margin of safety expands beyond 10%\n- Maintain 5-6% margin of safety through active rebalancing\n- Time between tranches: approximately 6 months\n\n**Technical Entry for Downtrends:**\nWhen fundamentally sound stocks are in downtrends, use channel analysis for entry timing. Buy when price touches or breaks below the central trend line within the downtrend channel. This provides technical confirmation for fundamental positions.\n\n**Bear Market Buying Principle:** A 20-21% market correction creates near-zero-risk buying conditions over 2-3 year horizons, justifying staged deployment rather than immediate full allocation.",
+      "frame_files": [
+        "scene_0144.jpg"
+      ],
+      "subsections": []
+    },
+    {
+      "topic_id": "key-takeaways",
+      "title": "Key Takeaways",
+      "content": "• **Fundamental analysis must precede technical analysis** — assess business value creation potential before applying chart patterns for timing\n\n• **Segment-level revenue analysis is essential** — understand which business units drive growth and distinguish temporary inventory cycles from structural changes\n\n• **Maintain 5-6% margin of safety** through staged capital deployment and active rebalancing as market conditions change\n\n• **Position building discipline matters more than stock selection** — how you buy is more important than what you buy\n\n• **Use technical confirmation for entry timing** — buy fundamentally sound stocks at technical support levels during downtrends\n\n• **Bear market corrections of 20%+ create low-risk entry opportunities** over 2-3 year investment horizons\n\n• **Forward metrics are more relevant than trailing metrics** for valuation assessment in dynamic businesses\n\n• **US market transparency enables thorough fundamental analysis** through clean quarterly earnings data and SEC filings",
+      "frame_files": [],
+      "subsections": []
+    }
+  ],
+  "assembled_doc_filename": "04_US_Stocks_Feb2025_Part2.md"
+}
